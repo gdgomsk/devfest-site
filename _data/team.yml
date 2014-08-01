@@ -1,60 +1,111 @@
 - 
   id: 0
-  name: "Vitaliy"
-  surname: "Zasadnyy"
-  title: "Sponsors and Speakers Manager"
-  thumbnailUrl: VitaliyZasadnyy.jpg
+  name: "Alex"
+  surname: "Korovyansky"
+  title: "Founder of GDG Omsk"
+  thumbnailUrl: alex.jpg
   team: true
   ribbon: 
     - {abbr: "GDG", title: "Google Developer Group"}
   social: 
-    - {name: "google-plus", link: "https://google.com/+VitalikZasadnyy"}
-    - {name: "twitter", link: "https://twitter.com/zasadnyy"}
-    - {name: "github", link: "https://github.com/zasadnyy"}
-    - {name: "site", link: "http://zasadnyy.com/"}
+    - {name: "google-plus", link: "http://google.com/+AlexKorovyansky"}
+    - {name: "twitter", link: "http://twitter.com/korovyansk"}
+    - {name: "github", link: "http://github.com/korovyansk"}
+    - {name: "site", link: "http://alexkorovyansky.com/"}
 - 
   id: 1
-  name: "Oleh"
-  surname: "Zasadnyy"
-  title: "Designer"
-  thumbnailUrl: OlehZasadnyy.jpg
+  name: "Serik"
+  surname: "Beysenov"
+  title: "Organizer of GDG Omsk"
+  thumbnailUrl: serik.jpg
   team: true
-  ribbon: 
-    - {abbr: "GDG", title: "Google Developer Group"}
   social: 
-    - {name: "google-plus", link: "https://google.com/+OlehZasadnyy"}
-    - {name: "github", link: "https://github.com/ozasadnyy"}
+    - {name: "google-plus", link: "http://gplus.to/serbeys"}
+    - {name: "twitter", link: "https://twitter.com/serbeys"}
+    - {name: "github", link: "fixme"}
+    - {name: "site", link: "fixme"}
 - 
   id: 2
-  name: "Ostap"
-  surname: "Andrusiv"
-  title: "Sponsors and Speakers Manager"
-  thumbnailUrl: OstapAndrusiv.jpg
+  name: "Ekaterina"
+  surname: "Pender"
+  title: "Leader of GDG Omsk"
+  thumbnailUrl: katya.jpg
   team: true
   ribbon: 
     - {abbr: "GDG", title: "Google Developer Group"}
   social: 
-    - {name: "google-plus", link: "https://google.com/+OstapAndrusiv"}
-    - {name: "twitter", link: "https://twitter.com/p1f"}
-    - {name: "site", link: "http://andrusiv.com/"}
+    - {name: "google-plus", link: "http://plus.google.com/109261224216765187591"}
+    - {name: "twitter", link: "http://twitter.com/chvetochek"}
+    - {name: "github", link: "fixme"}
+    - {name: "site", link: "fixme"}
+- 
+  id: 3
+  name: "Andrey"
+  surname: "Krivko"
+  title: "Organizer of GDG Omsk"
+  thumbnailUrl: andrey.jpg
+  team: true
+  social: 
+    - {name: "google-plus", link: "http://gplus.to/jastkand"}
+    - {name: "twitter", link: "http://twitter.com/jastkand"}
+    - {name: "github", link: "fixme"}
+    - {name: "site", link: "fixme"}
 - 
   id: 4
-  name: "Dmytro"
-  surname: "Danylyk"
-  title: "Android Program Committee"
-  thumbnailUrl: DmytroDanylyk.jpg
-  subTeam: true
+  name: "Vladimir"
+  surname: "Nikolaev"
+  title: "Chief of IMIT"
+  thumbnailUrl: nikolaev.jpg
+  team: true
   social: 
-    - {name: "google-plus", link: "https://plus.google.com/+DmytroDanylyk"}
-    - {name: "twitter", link: "https://twitter.com/dmytrodanylyk"}
-    - {name: "github", link: "https://github.com/dmytrodanylyk"}
+    - {name: "google-plus", link: "fixme"}
+    - {name: "github", link: "fixme"}
+    - {name: "site", link: "fixme"}
 - 
-  id: 7
-  name: "Valentyn"
-  surname: "Shybanov"
-  title: "Web and Cloud Program Committee"
-  thumbnailUrl: ValentynShybanov.jpg
-  subTeam: true
+  id: 5
+  name: "Alexey"
+  surname: "Zinoviev"
+  title: "Leader of GDG Omsk"
+  thumbnailUrl: alexey.jpg
+  team: true
+  ribbon: 
+    - {abbr: "GDG", title: "Google Developer Group"}
   social: 
-    - {name: "google-plus", link: "https://google.com/+ValentynShybanov"}
-    - {name: "site", link: "http://olostan.name/"}
+    - {name: "google-plus", link: "http://google.com/+AlexKorovyansky"}
+    - {name: "twitter", link: "http://twitter.com/zaleslaw"}
+    - {name: "github", link: "fixme"}
+    - {name: "site", link: "fixme"}
+-
+  id: 6
+  name: "Vitalina"
+  surname: "Drozd"
+  title: "Writer of GDG Omsk"
+  thumbnailUrl: vita.jpg
+  team: true
+  social: 
+    - {name: "google-plus", link: "http://plus.google.com/114702521941771930220"}
+    - {name: "twitter", link: "http://twitter.com/Angry_Drozd"}
+    - {name: "site", link: "fixme"}
+-
+  id: 7
+  name: "Kostya"
+  surname: "Dravolin"
+  title: "Tech Profi of GDG Omsk"
+  thumbnailUrl: kostya.jpg
+  team: true
+  social: 
+    - {name: "google-plus", link: "http://plus.google.com/110048547693630070186"}
+    - {name: "twitter", link: "http://twitter.com/zak_dk"}
+    - {name: "github", link: "fixme"}
+    - {name: "site", link: "fixme"}
+- 
+  id: 8
+  name: "Dmitry"
+  surname: "Abramov"
+  title: "Media Edit Profi of GDG Omsk"
+  thumbnailUrl: dima.jpg
+  team: true
+  social: 
+    - {name: "google-plus", link: "http://plus.google.com/105193729939791100390/posts"}
+    - {name: "github", link: "fixme"}
+    - {name: "site", link: "fixme"}    

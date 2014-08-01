@@ -1,5 +1,5 @@
 - 
-  id: 3
+  id: 100
   name: "Dawid"
   surname: "Ostrowski"
   company: "Google Poland"
@@ -10,7 +10,7 @@
   social: 
     - {name: "google-plus", link: "https://plus.google.com/+DawidOstrowski/"}
 - 
-  id: 4
+  id: 101
   name: "Dmytro"
   surname: "Danylyk"
   company: "Lemberg Solutions Limited"
@@ -23,7 +23,7 @@
     - {name: "twitter", link: "https://twitter.com/dmytrodanylyk"}
     - {name: "github", link: "https://github.com/dmytrodanylyk"}
 - 
-  id: 5
+  id: 102
   name: "Mateusz"
   surname: "Herych"
   company: "Base CRM, GDG Krakow"
@@ -38,7 +38,7 @@
     - {name: "google-plus", link: "https://plus.google.com/+MateuszHerych"}
     - {name: "twitter", link: "https://twitter.com/mherych"}
 - 
-  id: 6
+  id: 103
   name: "Roman"
   surname: "Mazur"
   company: "Stanfy, GDG Kyiv"
@@ -52,7 +52,7 @@
     - {name: "google-plus", link: "https://plus.google.com/+RomanMazur/"}
     - {name: "twitter", link: "http://twitter.com/roman_mazur"}
 - 
-  id: 7
+  id: 104
   name: "Valentyn"
   surname: "Shybanov"
   company: "Twinfield, GDG Kyiv"
