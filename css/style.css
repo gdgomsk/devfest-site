@@ -789,7 +789,7 @@ nav ul > li > a.current, nav ul > li > a:hover {
 }
 #statistic .stat {
     font-size: 100px;
-    color: #000464;
+    color: #03a9f4;
 }
 #statistic .stat-info {
     font-size: 17pt;
@@ -1033,7 +1033,7 @@ nav ul > li > a.current, nav ul > li > a:hover {
     padding: 30px 20px;
     text-align: left;
     color: #fff;
-    background: #000464;
+    background: #004692;
 }
 .venue-text p {
     font-size: 1.3em;
