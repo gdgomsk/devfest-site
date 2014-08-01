@@ -35,8 +35,8 @@ twitterFeed: "fixme" #"http://lviv.gdg.org.ua/tweetledee/favoritesjson.php?c=10&
 
 # Subscribe
 
-subscribeAction: "http://gdgomsk.us3.list-manage.com/subscribe/post?u=b7e6f7d6f22470e13c0445d05;id=4188aaa7f7" 
-#"http://gdg.us5.list-manage1.com/subscribe/post?u=9fc8aa205b0521b5f05fc8e1e&amp;id=ae0fb459fc"
+subscribeAction: "http://gdgomsk.us3.list-manage.com/subscribe/post?u=b7e6f7d6f22470e13c0445d05&amp;id=4188aaa7f7" 
+#bug "http://gdg.us5.list-manage1.com/subscribe/post?u=9fc8aa205b0521b5f05fc8e1e&amp;id=ae0fb459fc"
 
 # Documents
 c4pUrl: "http://short.gdgomsk.org/devfest14-c4p" #"http://bit.ly/dfua-c4p"
