@@ -36,7 +36,7 @@ b, strong {
     font-weight: 500;
 }
 a {
-    color: #03a9f4;
+    color: #000464;
 }
 a:focus, a:hover {
     text-decoration: none;
@@ -743,7 +743,7 @@ nav ul > li > a.current, nav ul > li > a:hover {
     position: relative;
     min-height: 600px;
     padding-top: 0;
-    background: #03a9f4;
+    background: #000464;
     background-repeat: no-repeat;
     background-position: center center;
     background-size: cover;
@@ -789,7 +789,7 @@ nav ul > li > a.current, nav ul > li > a:hover {
 }
 #statistic .stat {
     font-size: 100px;
-    color: #03a9f4;
+    color: #000464;
 }
 #statistic .stat-info {
     font-size: 17pt;
@@ -825,7 +825,7 @@ nav ul > li > a.current, nav ul > li > a:hover {
 #top-speakers .sub {
     font-size: 18px;
     margin: 0 0 15px;
-    color: #03a9f4;
+    color: #000464;
 }
 #top-speakers p {
     margin-bottom: 15px;
@@ -843,8 +843,8 @@ nav ul > li > a.current, nav ul > li > a:hover {
 }
 #top-speakers .social-link a:Hover {
     opacity: 1;
-    color: #03a9f4;
-    border-color: #03a9f4;
+    color: #000464;
+    border-color: #000464;
 }
 /* --END TOP SPEAKERS SECTION */
 
@@ -1033,7 +1033,7 @@ nav ul > li > a.current, nav ul > li > a:hover {
     padding: 30px 20px;
     text-align: left;
     color: #fff;
-    background: #03a9f4;
+    background: #000464;
 }
 .venue-text p {
     font-size: 1.3em;
@@ -2109,7 +2109,7 @@ nav ul > li > a.current, nav ul > li > a:hover {
         outline: none;
     }
     #top-header.after-scroll .st-menu .current, #top-header.after-scroll .st-menu ul li a:hover, .dark-header .st-menu .current, .dark-header .st-menu ul li a:hover, .st-menu .current, .st-menu ul li a:hover {
-        color: #03a9f4;
+        color: #000464;
     }
     .st-effect.st-menu {
         visibility: visible;
