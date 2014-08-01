@@ -5,7 +5,7 @@ exclude: ['/automation/', 'README.md', 'LICENCE.txt', 'CNAME']
 
 
 # Site settings
-title: GDG DevFest Season 2014
+title: GDG DevFest Omsk 2014
 email: team@gdg-devfest-omsk.org
 description: "GDG DevFest is a set of events all around the world"
 baseurl: "/devfest"
@@ -18,9 +18,9 @@ googleAnalyticsSiteUrl: "gdgomsk.github.io"
 eventLocationName: "Omsk State University"
 eventLocationAddress: "55a Mira St, Omsk"
 eventStartTime: "2014-10-18T10:00"
-eventStartTimeHumanReadable: "10:00"
-eventEndTime: "2014-10-18T20:00"
-eventEndTimeHumanReadable: "20:00"
+eventStartTimeHumanReadable: "Oct 18, 10:00"
+eventEndTime: "2014-10-19T18:00"
+eventEndTimeHumanReadable: "Oct 19, 18:00"
 eventPlaceCoordinates: "55.028372,73.261915"
 mapCenterCoordinates: "55.028372,73.26"
 mapMobileCenterCoordinates: "55.028372,73.261915"
@@ -34,21 +34,23 @@ twitterHashTag: "devfest"
 twitterFeed: "fixme" #"http://lviv.gdg.org.ua/tweetledee/favoritesjson.php?c=10&cache_interval=900"
 
 # Subscribe
-subscribeAction: "fixme" #"http://gdg.us5.list-manage1.com/subscribe/post?u=9fc8aa205b0521b5f05fc8e1e&amp;id=ae0fb459fc"
+
+subscribeAction: "http://gdgomsk.us3.list-manage.com/subscribe/post?u=b7e6f7d6f22470e13c0445d05;id=4188aaa7f7" 
+#"http://gdg.us5.list-manage1.com/subscribe/post?u=9fc8aa205b0521b5f05fc8e1e&amp;id=ae0fb459fc"
 
 # Documents
-c4pUrl: "fixme" #"http://bit.ly/dfua-c4p"
-c4sponsorsUrl: "/assets/GDG_DevFest_Partnership.pdf"
+c4pUrl: "http://short.gdgomsk.org/devfest14-c4p" #"http://bit.ly/dfua-c4p"
+c4sponsorsUrl: "fixme_asap" #"/assets/GDG_DevFest_Partnership.pdf"
 
 # Head
-metaKeywords: "event, gdg, devfest, google, programming, android, chrome, developers, lviv"
+metaKeywords: "event, gdg, devfest, google, programming, android, chrome, developers, omsk"
 twitterAccount: "@DevFest"
 socialImageSrcGooglePlus: "/img/seo/sharing-google-plus.png"
 socialImageSrcTwitter: "/img/seo/sharing-twitter.png"
 socialImageSrcFacebook: "/img/seo/sharing-facebook.png"
 
 # Header
-eventDate: "September - November, 2014"
+eventDate: "Join at Omsk — October 18, 2014"
 typeoutTextValues: '"Bay Area", "London", "Омск", "東京", "Львів", "Milano", "Arequipa", "नई दिल्ली", "Bassam", "Madrid", "..."'
 
 # About Event Block
