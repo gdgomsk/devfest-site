@@ -9,10 +9,10 @@ title: GDG DevFest Omsk 2014
 email: team@gdg-devfest-omsk.org
 description: "GDG DevFest is a set of events all around the world"
 baseurl: "/devfest"
-url: "http://gdgomsk.github.io"
+url: "http://gdg-devfest-omsk.org"
 permalink: /blog/:title
-googleAnalyticsTrackingId: "UA-43643469-5"
-googleAnalyticsSiteUrl: "gdgomsk.github.io"
+googleAnalyticsTrackingId: "UA-23085453-4"
+googleAnalyticsSiteUrl: "gdg-devfest-omsk.org"
 
 # Location block
 eventLocationName: "Omsk State University"
