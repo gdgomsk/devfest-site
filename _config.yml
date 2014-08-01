@@ -62,9 +62,9 @@ showSessions: true
 thumbnailsFolder: /img/speakers/
 
 # Footer
-gplusFollowUsUrl: "https://plus.google.com/b/102444623953913144164"
-twitterFollowUsUrl: "https://twitter.com/intent/user?screen_name=GDGLviv"
-fbFollowUsUrl: "https://facebook.com/GDGLviv"
+gplusFollowUsUrl: "http://plus.google.com/102520175692033125056"
+twitterFollowUsUrl: "http://twitter.com/intent/user?screen_name=GDGOmsk"
+vkFollowUsUrl: "http://vk.com/gdgomsk_news"
 
 # Blog
 blogCommentsEnabled: true
