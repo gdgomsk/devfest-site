@@ -17,10 +17,10 @@ googleAnalyticsSiteUrl: "gdgomsk.github.io"
 # Location block
 eventLocationName: "Omsk State University"
 eventLocationAddress: "55a Mira St, Omsk"
-eventStartTime: "2014-10-18T10:00"
-eventStartTimeHumanReadable: "Oct 18, 10:00"
-eventEndTime: "2014-10-19T18:00"
-eventEndTimeHumanReadable: "Oct 19, 18:00"
+eventStartTime: "2014-11-01T10:00"
+eventStartTimeHumanReadable: "Nov 1, 10:00"
+eventEndTime: "2014-11-02T16:00"
+eventEndTimeHumanReadable: "Nov 2, 16:00"
 eventPlaceCoordinates: "55.028372,73.261915"
 mapCenterCoordinates: "55.028372,73.26"
 mapMobileCenterCoordinates: "55.028372,73.261915"
@@ -50,7 +50,7 @@ socialImageSrcTwitter: "/img/seo/sharing-twitter.png"
 socialImageSrcFacebook: "/img/seo/sharing-facebook.png"
 
 # Header
-eventDate: "Join at Omsk — October 18, 2014"
+eventDate: "Join Global DevFest Season in Omsk. November 1-2, 2014"
 typeoutTextValues: '"Bay Area", "London", "Омск", "東京", "Львів", "Milano", "Arequipa", "नई दिल्ली", "Bassam", "Madrid", "..."'
 
 # About Event Block
