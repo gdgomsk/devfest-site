@@ -40,7 +40,7 @@ subscribeAction: "http://gdgomsk.us3.list-manage.com/subscribe/post?u=b7e6f7d6f2
 
 # Documents
 c4pUrl: "http://short.gdgomsk.org/devfest14-c4p" #"http://bit.ly/dfua-c4p"
-c4sponsorsUrl: "mailto:team@gdg-devfest-omsk.org" #"/assets/GDG_DevFest_Partnership.pdf"
+c4partnersUrl: "mailto:team@gdg-devfest-omsk.org" #"/assets/GDG_DevFest_Partnership.pdf"
 
 # Head
 metaKeywords: "event, gdg, devfest, google, programming, android, chrome, developers, omsk"

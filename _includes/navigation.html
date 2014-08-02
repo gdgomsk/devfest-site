@@ -21,14 +21,12 @@
             <li><a {% if page.permalink == '/logistics/' %} class="current" {% endif %} href="{{ site.baseurl }}/logistics/">Logistics</a>
             </li>
         </ul>
-        <ul id="bottom-navlinks" class="bottom-navlinks visible-xs">
-            <!-- <li><a href="#">Buy tickets</a>
-            </li> -->
+        <!--ul id="bottom-navlinks" class="bottom-navlinks visible-xs">
             <li><a href="{{ site.c4pUrl }}" target="_blank">Become a speaker</a>
             </li>
-        </ul>
+        </ul-->
         <span id="buy-tickets-button"  class="btn btn-primary waves-element waves-button waves-light waves-will-raise pull-right hidden-xs hidden-sm hidden">
-            <a href="{{ site.c4pUrl }}" target="_blank">Become a speaker</a>
+            <a href="{{ site.baseUrl | append: '#subscribe' }}" target="_blank">Subscribe to news and invites</a> <!--bug when click to button it animates, but don't jump to link-->
         </span>
     </nav>
 </header>
