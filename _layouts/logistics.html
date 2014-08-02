@@ -35,6 +35,7 @@
     <script src="{{ "/js/waves.min.js" | prepend: site.baseurl }}"></script>
     <script src="https://maps.googleapis.com/maps/api/js?v=3.exp&libraries=places,geometry"></script>
     <script>
+        // feature maybe use polumer google map??
         var googleMaps = 'logistics';
         var eventPlace = new google.maps.LatLng({{site.eventPlaceCoordinates}});
         var centerMap = new google.maps.LatLng({{site.logisticsMapCenterCoordinates}});
