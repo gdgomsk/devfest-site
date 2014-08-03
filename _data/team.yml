@@ -71,7 +71,7 @@
   ribbon: 
     - {abbr: "GDG", title: "Google Developer Group"}
   social: 
-    - {name: "google-plus", link: "http://plus.google.com/110650159101065784429/about"}
+    - {name: "google-plus", link: "http://plus.google.com/110650159101065784429"}
     - {name: "twitter", link: "http://twitter.com/zaleslaw"}
     - {name: "github", link: "fixme"}
     - {name: "site", link: "fixme"}
@@ -106,6 +106,6 @@
   thumbnailUrl: dima.jpg
   team: true
   social: 
-    - {name: "google-plus", link: "http://plus.google.com/105193729939791100390/posts"}
+    - {name: "google-plus", link: "http://plus.google.com/105193729939791100390"}
     - {name: "github", link: "fixme"}
-    - {name: "site", link: "fixme"}    
+    - {name: "site", link: "fixme"}
