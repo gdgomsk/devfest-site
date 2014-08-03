@@ -9,7 +9,7 @@ Live version — http://gdg-devfest-omsk.org
 * [jQuery countTo Plugin](https://github.com/mhuggins/jquery-countTo)
 * [Typed.js](https://github.com/mattboldt/typed.js)
 
-## Local development
+### Local development
 
 Check if you have [all requirments for local environment](http://jekyllrb.com/docs/installation/), install [Jekyll server](http://jekyllrb.com/docs/quickstart/) gem and run this command from project root folder:
 
