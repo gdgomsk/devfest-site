@@ -1,4 +1,4 @@
-# Site for GDG DevFest Omsk 2014
+### Site for GDG DevFest Omsk 2014
 Live version — http://gdg-devfest-omsk.org
 
 ### Used libraries
