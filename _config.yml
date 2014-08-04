@@ -57,7 +57,7 @@ typeoutTextValues: '"Bay Area", "London", "Омск", "東京", "Львів", "M
 eventName: "GDG DevFest Omsk 2014"
 
 # Team Block
-aboutUs: Google's services have become synonymous with simple things online. Number of technological innovations and IT industries in which Google is creating new products is enormous. It's hard to get to know all of them, but realistic. This is why people have started to gather in small local groups and share their experience. Later, the following groups have been called Google Developer Groups. GDGs can take many forms -- from just a few people getting together to watch some videos, to large gatherings with demos, tech talks, hackathons and conferences. #fixme change text
+aboutUs: "Hi everyone! We're small team of enthusiasts. We like knowledges, communication and rocket-science technologies. We're are organizing GDG DevFest Omsk to inspire you to make positive step forward. We'll do our best to create magic, productive and smiling atmosphere on the event. We hope, DevFest Omsk will light new talents and new awesome initiatives!"
 
 # Speakers List Block
 showSessions: true
