@@ -8,12 +8,12 @@ on_stylesheet_saved do |file|
   end
 end
 
-http_path = "/" 
-css_dir = "../css" 
-sass_dir = "./" 
-images_dir = "../img" 
-javascripts_dir = "../js" 
+http_path = "/"
+css_dir = "../css"
+sass_dir = "./"
+images_dir = "../img"
+javascripts_dir = "../js"
 output_style = :expanded
-relative_assets = true 
+relative_assets = true
 line_comments = false
 sourcemap = true

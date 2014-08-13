@@ -36,44 +36,45 @@ a {
         text-decoration: none;
     }
 }
-#{headings()} {
-	font-weight: $light;
-	display: block;
-}
+// Fix: This is something that I have never saw before. Find out if we need this
+// #{headings()} {
+// 	font-weight: $light;
+// 	display: block;
+// }
 h1 {
     font-size: $h1-font-size;
     @media (max-width: 767px) {
-       font-size: $h1-font-size * 60 / 100; 
+       font-size: $h1-font-size * 60 / 100;
     }
 }
 h2 {
     font-size: $h2-font-size;
     @media (max-width: 767px) {
-       font-size: $h2-font-size * 60 / 100; 
+       font-size: $h2-font-size * 60 / 100;
     }
 }
 h3 {
     font-size: $h3-font-size;
     @media (max-width: 767px) {
-       font-size: $h3-font-size * 70 / 100; 
+       font-size: $h3-font-size * 70 / 100;
     }
 }
 h4 {
     font-size: $h4-font-size;
     @media (max-width: 767px) {
-       font-size: $h4-font-size * 70 / 100; 
+       font-size: $h4-font-size * 70 / 100;
     }
 }
 h5 {
     font-size: $h5-font-size;
     @media (max-width: 767px) {
-       font-size: $h5-font-size * 80 / 100; 
+       font-size: $h5-font-size * 80 / 100;
     }
 }
 h6 {
     font-size: $h6-font-size;
     @media (max-width: 767px) {
-       font-size: $h6-font-size * 80 / 100; 
+       font-size: $h6-font-size * 80 / 100;
     }
 }
 .content-wrapper {
@@ -278,4 +279,7 @@ h6 {
         margin-right: 4px;
         display: inline-block;
     }
+}
+.btn {
+    user-select: none;
 }

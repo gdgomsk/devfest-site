@@ -2,4 +2,4 @@
 
 _site/
 __site/
-_sass/.sass-cache
+.sass-cache/
