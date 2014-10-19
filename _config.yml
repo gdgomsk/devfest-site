@@ -65,8 +65,7 @@ eventName: "GDG DevFest Omsk 2014"
 aboutUs: "Hi everyone! We're small team of enthusiasts. We like knowledges, communication and rocket-science technologies. We're are organizing GDG DevFest Omsk to inspire you to make positive step forward. We'll do our best to create magic, productive and smiling atmosphere on the event. We hope, DevFest Omsk will light new talents and new awesome initiatives!"
 
 # Documents
-c4sponsorsUrl: "/assets/GDG_DevFest_Partnership.pdf"
-
+c4sponsorsUrl: "mailto:team@gdg-devfest-omsk.org"
 
 # Navigation
 navigationLinks:
@@ -150,7 +149,7 @@ twitterFeed: "http://lviv.gdg.org.ua/tweetledee/favoritesjson.php?c=10&cache_int
 # Partners Block
 organizersTitle: "Organizers"
 partnersTitle: "Partners"
-partnersC4sponsorsButton: "Become a sponsor"
+partnersC4sponsorsButton: "Become a partner"
 
 # Subscribe Block
 subscribeImage: "subscribe.jpg"
