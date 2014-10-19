@@ -1,7 +1,17 @@
+.content-wrapper {
+    position: relative;
+    z-index: 1;
+    height: 100%;
+}
 .bordered {
+    display: inline-block;
     color: rgba(255, 255, 255, .6);
     border: 1px solid rgba(255, 255, 255, .6);
     border-radius: 0;
+    &.dark-border {
+        color: rgba(51, 51, 51, .6);
+        border-color: rgba(51, 51, 51, .6);
+    }
 }
 .colored {
     color: $primary-color;
@@ -23,6 +33,7 @@
 }
 .bottom-section-link {
     text-transform: uppercase;
+    padding: 7px 17px;
 }
 .card {
     position: relative;
@@ -49,6 +60,9 @@
 	&.solid-overlay {
 		background: rgba(37, 32, 31, .8);	
 	}
+    &.white-solid {
+        background: rgba(255, 255, 255, .9);
+    }
     &.gradient-overlay {
 	    background: linear-gradient(to bottom, rgba(0, 0, 0, .32) 0%, rgba(0, 0, 0, 0) 32%, rgba(0, 0, 0, .64) 100%);
 	}
@@ -81,7 +95,7 @@
     animation: blink .7s infinite;
     opacity: 1;
 }
-@-keyframes blink {
+@keyframes blink {
     0% {
         opacity: 1;
     }
@@ -105,4 +119,16 @@
     &.visible {
         transform: scale(1);
     }
+}
+.flexbox-wrapper {
+    @include flexbox();
+}
+.flexbox-item-height {
+    @include flex(1);
+}
+.reset-padding {
+    padding: 0;
+}
+.disable-scrolling {
+    overflow: hidden;
 }

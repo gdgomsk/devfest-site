@@ -1,10 +1,10 @@
-# Build settings
+# Build Settings
 markdown: kramdown
 permalink: pretty
 exclude: ['/automation/', 'README.md', 'LICENCE.txt', 'CNAME']
 
 
-# Site settings
+# Site Settings
 title: GDG DevFest Omsk 2014
 email: team@gdg-devfest-omsk.org
 description: "GDG DevFest is a set of events all around the world"
@@ -13,6 +13,15 @@ url: "http://gdg-devfest-omsk.org"
 permalink: /blog/:title
 googleAnalyticsTrackingId: "UA-23085453-4"
 googleAnalyticsSiteUrl: "gdg-devfest-omsk.org"
+siteVerification: "" # TODO: Get google site verification code
+
+# Organizer Info
+organizerName: "GDG Omsk"
+organizerAlternateName: "Google Developer Group Omsk"
+organizerDescription: "Open and volunteer geek communities who create exciting projects and share experience about Google technology with passion."
+organizerEmail: "org.team@gdgomsk.org"
+organizerLogo: "/img/seo/organizer-logo.png"
+organizerLink: "http://gdgomsk.org/"
 
 # Location block
 eventLocationName: "Omsk State University"
@@ -31,7 +40,7 @@ logisticsMapMobileCenterCoordinates: "55.028372,73.261915"
 
 #Tweets feed
 twitterHashTag: "devfest"
-twitterFeed: "fixme" #"http://lviv.gdg.org.ua/tweetledee/favoritesjson.php?c=10&cache_interval=900"
+twitterFeed: "fixme" # "http://lviv.gdg.org.ua/tweetledee/favoritesjson.php?c=10&cache_interval=900"
 
 # Subscribe
 
@@ -49,28 +58,250 @@ socialImageSrcGooglePlus: "/img/seo/sharing-google-plus.png"
 socialImageSrcTwitter: "/img/seo/sharing-twitter.png"
 socialImageSrcFacebook: "/img/seo/sharing-facebook.png"
 
-# Header
-eventDate: "Join Global DevFest Season! Omsk, November 1-2, 2014."
-typeoutTextValues: '"Bay Area", "London", "Омск", "東京", "Львів", "Milano", "Arequipa", "नई दिल्ली", "Bassam", "Madrid", "..."'
-
 # About Event Block
 eventName: "GDG DevFest Omsk 2014"
 
 # Team Block
 aboutUs: "Hi everyone! We're small team of enthusiasts. We like knowledges, communication and rocket-science technologies. We're are organizing GDG DevFest Omsk to inspire you to make positive step forward. We'll do our best to create magic, productive and smiling atmosphere on the event. We hope, DevFest Omsk will light new talents and new awesome initiatives!"
 
-# Speakers List Block
-showSessions: true
-thumbnailsFolder: /img/speakers/
+# Documents
+c4sponsorsUrl: "/assets/GDG_DevFest_Partnership.pdf"
+
+
+# Navigation
+navigationLinks:
+ - {permalink: "/", text: "Home"}
+ - {permalink: "/schedule/", text: "Schedule"}
+ - {permalink: "/speakers/", text: "Speakers"}
+ - {permalink: "/team/", text: "Team"}
+ - {permalink: "/logistics/", text: "Logistics"}
+ - {permalink: "/hackathon/", text: "Hackathon"}
+bottomNavigationLinks:
+ - {link: "http://bit.ly/dfua-c4p", text: "Become a speaker"}
+rightNavigationButtons:
+ - {link: "http://bit.ly/dfua-c4p", text: "Become a speaker"}
+
+# Hero Block
+heroImage: "hero.jpg"
+heroTitle: "GDG DevFest <typeout> 2014"
+eventDate: "Join Global DevFest Season! Omsk, November 15-16, 2014."
+typeoutTextValues: '"Bay Area", "London", "Омск", "東京", "Львів", "Milano", "Arequipa", "नई दिल्ली", "Bassam", "Madrid", "..."'
+typeoutFallback: "Omsk"
+heroButtons:
+ - {link: "/#subscribe", text: "I want to take part"}
+ - {permalink: "http://bit.ly/dfua-c4p", text: "Become a speaker"}
+
+# About Block
+aboutTitle: "About GDG DevFest"
+aboutBlock:
+ - {title: "Conference", image: "conference.jpg", text: "Highly technical, in-depth sessions focused on building web and mobile apps with Google and open technologies. Awesome speakers and lot's of fun!" }
+ - {title: "Ignite", image: "ignite.jpg", text: "Series of five-minute presentations for geeks. Each speaker gets 20 slides that auto-advance after 15 seconds. Apply here to talk at Ignite." }
+ - {title: "Barcamp", image: "barcamp.jpg", text: "Open, participatory workshop-events, the content of which is provided by participants. Discuss any topic that you're interested in." }
+ - {title: "Hackathon", image: "hackathon.jpg", text: "Full-day freestyle hackathon! Want some real team building on friday? Grab your team and join our hackathon!" }
+
+# Statistic Block
+statisticBlockImage: "statistic.jpg"
+statisticBlock:
+ - {count: "2", specialCharacter: "", info: "Days", detail: "of new knowledges"}
+ - {count: "200", specialCharacter: "", info: "Attendees", detail: "from everywhere"}
+ - {count: "500", specialCharacter: "+", info: "pizzas", detail: "and other awesome SWAG"}
+ - {count: "900", specialCharacter: "+", info: "Minutes", detail: "of great time and fun"}
+
+# Latest News Block
+latestNewsTitle: "Latest news"
+
+# Rockstar Speakers Block
+rockstarSpeakersImage: "rockstar-speakers.jpg"
+rockstarSpeakersCount: 4
+rockstarSpeakersTitle: "Rockstar speakers"
+rockstarSpeakersButtonText: "See all speakers"
+
+# Location Block
+locationBlockTitle: "Location"
+eventLocationName: "Conference Hall"
+eventLocationLink: "http://cabinet.kinopalace.lviv.ua/showtimes/"
+eventStreetAddress: "22 Teatral'na St"
+eventAddressLocality: "Lviv"
+eventAddressLocalityRegion: "Lvivska"
+eventPostalCode: "79000"
+eventAddressCountry: "Ukraine"
+eventStartTime: "2014-10-25T10:00"
+eventDoorTime: "09:00"
+eventEndTime: "2014-10-25T20:00"
+eventPlaceCoordinates: "49.843237, 24.028751"
+mapCenterCoordinates: "49.842537, 24.025701"
+mapMobileCenterCoordinates: "49.841620, 24.029411"
+
+# Venue Block
+venueBlockTitle: "Welcome to University"
+venueBigImage: "venue_0.jpg"
+venueSmallImage1: "venue_1.jpg"
+venueSmallImage2: "venue_2.jpg"
+venueSmallImage3: "venue_3.jpg"
+venueTitle: "Omsk State University"
+venueFeatures: ["<b>Institute of Mathematics and Information Technologies</b> — power of education and comfortable lecture rooms."]
+
+# Tweets Feed Block
+tweetsFeedImage: "twitter-feed.jpg"
+tweetsFeedTitle: "What's Up?"
+twitterHashTag: "devfest"
+twitterFeed: "http://lviv.gdg.org.ua/tweetledee/favoritesjson.php?c=10&cache_interval=900"
+
+# Partners Block
+organizersTitle: "Organizers"
+partnersTitle: "Partners"
+partnersC4sponsorsButton: "Become a sponsor"
+
+# Subscribe Block
+subscribeImage: "subscribe.jpg"
+subscribeTitle: "Subscribe to news and invites"
+subscribeAction: "http://gdg.us5.list-manage1.com/subscribe/post?u=9fc8aa205b0521b5f05fc8e1e&amp;id=ae0fb459fc"
+subscribeInfo: "Registration will be open around end of September. Number of tickets are very limited.<br/>Dates of event is subject of change. Stay tuned!"
+
+# Tickets Block
+ticketsTitle: "Pricetable"
+ticketsInfo: "Tickets grant access to all conference sections, coffee brakes, lunch and party. Accommodation is NOT included in the ticket price."
+ticketsOffers:
+ -
+  name: "Early Bird"
+  price: "350"
+  priceCurrency: "UAH"
+  ticketsNumber: "150"
+  ribbon: "-5%"
+  buyButtonLink: "http://dfua.ticketforevent.com/"
+  buyButtonText: "Buy Now"
+  ticketContentList: ["Lorem ipsum is simply", "Dummy text of the printing", "Typesetting industry"]
+  validFrom: "2014-08-25T10:00"
+  validThrough: "2014-09-30T23:59"
+ -
+  name: "Last Chance"
+  price: "450"
+  priceCurrency: "UAH"
+  ticketsNumber: "100"
+  ribbon: "-20%"
+  featured: true
+  buyButtonLink: "http://dfua.ticketforevent.com/"
+  buyButtonText: "Buy Now"
+  ticketContentList: ["Lorem ipsum is simply", "Dummy text of the printing", "Typesetting industry"]
+  validFrom: "2014-10-01T00:00"
+  validThrough: "2014-10-23T23:59"
+  disabled: true
+ -
+  name: "Student"
+  price: "200"
+  priceCurrency: "UAH"
+  ticketsNumber: "50"
+  buyButtonLink: "http://dfua.ticketforevent.com/"
+  buyButtonText: "Buy Now"
+  additionalInfo: "Requires a valid student ID at the conference check in. Without student ID at the check in, ticket will be cancelled without refund"
+  ticketContentList: ["Lorem ipsum is simply", "Dummy text of the printing", "Typesetting industry"]
+  validFrom: "2014-08-20T10:00"
+  validThrough: "2014-10-23T23:59"
+  soldOut: true
+  soldOutText: "Sold Out"
 
 # Footer
-gplusFollowUsUrl: "http://plus.google.com/102520175692033125056"
-twitterFollowUsUrl: "http://twitter.com/intent/user?screen_name=GDGOmsk"
-vkFollowUsUrl: "http://vk.com/gdgomsk_news"
+socialLinks:
+ - {link: "http://plus.google.com/102520175692033125056", icon: "google-plus"}
+ - {link: "http://twitter.com/intent/user?screen_name=GDGOmsk", icon: "twitter"}
+ - {link: "http://vk.com/gdgomsk_news", icon: "vk"}
+ - {permalink: "/feed.xml", icon: "rss"}
+footerBlocks:
+ -
+  title: "Links"
+  links:
+   - {link: "http://www.gdgomsk.org", text: "GDG Omsk"}
+   - {link: "https://developers.google.com", text: "Google Developers"}
+ -
+  title: "Contacts"
+  links:
+   - {link: "mailto:org.team@gdgomsk.org", text: "org.team@gdgomsk.org"}
+ -
+  title: "FAQ"
+  links:
+   - {permalink: "/cod/", text: "Code of Conduct"}
+   - {link: "https://github.com/GDGOmsk/devfest-site/issues/new", text: "Caught a bug?"}
 
 # Blog
+blogTitle: "Latest news"
 blogCommentsEnabled: false
-discusShortName: "fixme" #"devfestua"
+discusShortName: "fixme" # "devfestua"
+
+# Speakers List Block
+showSessions: true
+
+# Team Block
+teamBlockTitle: "About us"
+aboutUs: "Google's services have become synonymous with simple things online. Number of technological innovations and IT industries in which Google is creating new products is enormous. It's hard to get to know all of them, but realistic. This is why people have started to gather in small local groups and share their experience. Later, the following groups have been called Google Developer Groups. GDGs can take many forms -- from just a few people getting together to watch some videos, to large gatherings with demos, tech talks, hackathons and conferences."
+
+# Logistics Find Way Block
+findWayTitle: "Find your way here"
+findWayDistance: "Distance"
+findWayDriving: "DRIVING"
+findWayWalking: "WALKING"
+findWayBicycling: "BICYCLING"
+findWayTransit: "TRANSIT"
+findWayFindFlight: "Find Flight"
+logisticsMapCenterCoordinates: "49.056728, 3.117289"
+logisticsMapMobileCenterCoordinates: "48.335365, 23.711648"
+
+# Logistics Direction Details Block
+directionDetailsImage: "direction-details.jpg"
+directionDetailsTitle: "Get around Omsk"
+directionDetailsCards:
+ - {title: "From other City", information: 'You can arrive by plane or by train. Both airport and railway station are inside the city border. So venue is easily reachable by car, public transport or taxi.'}
+ - {title: "Public Transit", information: 'Google Transit is available in Omsk. So you can find your way in Google Maps. Moreover, you can download any of the offline public transit apps available for Omsk.'}
+ - {title: "Hotels", information: 'Omsk has lots of great hotels and hostels. You will surely find the one that will suit you.'}
+directionDetailsWideCards:
+ -
+  title: "Questions?"
+  subCards:
+   -
+    title: "Hotels"
+    links:
+     - {link: "http://www.hotel-mayak.ru/", text: "Mayak Hotel"}
+     - {link: "http://razumovsky-hotel.com/", text: "Razumovsky Business Club Hotel"}
+     - {link: "http://likehostels.ru/omsk/", text: "Like Hostel"}
+
+# Hackathon
+hackathonTitle: "Hackathon"
+enableHackathon: true
+
+# Hackathon About Block
+aboutHackathonTitle: "Meet our themes"
+hackathonRows:
+ - {title: "Android Wear", image: "hackathon-0.png", details: "The front doors will be locked because this is after hours, please park behind the building and come to the door nearest the parking lot.<br><br>Our last meeting showed that there was a lot of interest in Android Wear so we decided to put on an Android Wear Hackathon to see what you could come up with! We realize that this is pretty short notice so we hope you can help us spread the word! There will be pizza, prizes and a great group of geeks to spend the evening coding with! Even if you don't have an app idea come on in and lend a hand to someone else or maybe find inspiration once you're here!"}
+ - {title: "Google Glass", image: "hackathon-1.png", details: "We love wearable computing especially Google Glass for which we want to gather the break up community in order to boost innovation.<br><br>Coding an app on Google Glass needs its Rockstar Dev : the team needs a fast learner with solid skills on Android. He knows his way around Android SDK, already checked the Glass Developement Kit (GDK) quick start guide allowing him to jump start developing an app for Glass.The Designer has the hard task to build the visual identity from the ground up, he has strong UX knowledge and a deep understanding of the new rules set by the Glass. His design skills give him the credibility to decide the most effective UI and the most compelling Glass experience."}
+ - {title: "Polymer", image: "hackathon-2.png", details: "Polymer is a library that introduces web components. Web components are small elements on a page that can be extended and incorporated in web applications. The result is an increase in productivity.<br><br>We used Polymer mainly to explore the concept of web components. The transition of Google to material design was also a factor.While the library was never touched by the team, it still was painless to wireframe the application. Later on we incorporated some Polymer components in the design. We didn’t use the full potential of Polymer because of the limited time."}
+
+# Hackathon Judges Block
+judgesImage: "judges.jpg"
+judgesTitle: "Judges"
+
+# Hackathon Prizes Block
+prizesTitle: "Prizes"
+prizes:
+ - {title: "2nd Place", image: "prize-2.png", info: "Amazing Moto 360"}
+ - {title: "1nd Place", image: "prize-1.png", info: "Nexus 5 with pre-installed Android L"}
+ - {title: "3nd Place", image: "prize-3.png", info: "Useful Chromecast"}
+
+# Hackathon Location Block
+hackathonLocationBlockTitle: "Location"
+hackathonLocationName: "Communa"
+hackathonLocationLink: "http://communa.net.ua/"
+hackathonStreetAddress: "1 Halytska St"
+hackathonAddressLocality: "Lviv"
+hackathonAddressLocalityRegion: "Lvivska"
+hackathonPostalCode: "79000"
+hackathonAddressCountry: "Ukraine"
+hackathonTimeTitle: "Hack through"
+hackathonStartTime: "2014-10-24T10:00"
+hackathonDoorTime: "09:00"
+hackathonEndTime: "2014-10-25T00:00"
+viewOnMap: "View on Google Maps"
+hackathonPlaceCoordinates: "49.840999, 24.031144"
+hackathonMapCenterCoordinates: "49.840696, 24.028754"
+hackathonMapMobileCenterCoordinates: "49.841639, 24.031182"
 
 sass:
   style: :compressed

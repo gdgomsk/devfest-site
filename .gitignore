@@ -1,5 +1,17 @@
-.DS_Store
+### Idea ###
+.idea
 
+### Jekyll ###
 _site/
 __site/
-.sass-cache/
+
+### Sass ###
+.sass-cache
+
+### Windows ###
+# Windows image file caches
+Thumbs.db
+ehthumbs.db
+
+### Mac OS ###
+.DS_Store

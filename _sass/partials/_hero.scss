@@ -6,9 +6,9 @@
     .jumbotron {
         position: relative;
         top: 50%;
+        margin: 0;
         left: 0;
-        transform: translateY(-50%);
-
+        transform: translateY(-60%);
         @media (max-width: 767px) {
             margin: 0;
             padding: 0;
@@ -19,6 +19,15 @@
             font-weight: $light;
             margin-bottom: 15px;
         }
+        .btn {
+            margin: 0 3px;
+        }
+    }
+}
+.typeout-fallback {
+    display: none;
+    @media (max-width: 767px) {
+        display: inline-block;
     }
 
     .btn-hero {
@@ -27,14 +36,15 @@
 }
 
 .explore {
-    margin-left: -12px;
+    margin-left: -16px;
     position: absolute;
-    bottom: 50px;
+    bottom: -25px;
     left: 50%;
-    transition: $base-transition;
-
+    animation: callToAction 3.5s linear 0s infinite;
     @media (max-width: 767px) {
+        margin-left: -12.5px;
         bottom: 30px;
+        animation: none;
     }
 }
 
@@ -46,5 +56,27 @@
     @media (max-width: 767px) {
         width: 24px;
         height: 24px;
+    }
+}
+@keyframes callToAction {
+    0% {
+        opacity: 0;
+        transform: translateY(-16px);
+    }
+    25% {
+        opacity: 1;
+        transform: translateY(0);
+    }
+    75% {
+        opacity: 1;
+        transform: translateY(0);
+    }
+    85% {
+        opacity: 0;
+        transform: translateY(-16px);
+    }
+    100% {
+        opacity: 0;
+        transform: translateY(-16px);
     }
 }
