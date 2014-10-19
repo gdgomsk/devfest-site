@@ -304,4 +304,5 @@ hackathonMapCenterCoordinates: "49.840696, 24.028754"
 hackathonMapMobileCenterCoordinates: "49.841639, 24.031182"
 
 sass:
+  sass_dir: _sass
   style: :compressed
