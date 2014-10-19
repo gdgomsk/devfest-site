@@ -1,14 +1,6 @@
 # Site for GDG DevFest Omsk 2014
 Live version — http://gdg-devfest-omsk.org
 
-### Used libraries
-* [Bootstrap](https://github.com/twbs/bootstrap)
-* [Animate.css](https://github.com/daneden/animate.css)
-* [Waves](https://github.com/publicis-indonesia/Waves)
-* [jquery.appear](https://github.com/bas2k/jquery.appear)
-* [jQuery countTo Plugin](https://github.com/mhuggins/jquery-countTo)
-* [Typed.js](https://github.com/mattboldt/typed.js)
-
 # Project Zeppelin / GDG DevFest 2014 site template
 
 ### About
