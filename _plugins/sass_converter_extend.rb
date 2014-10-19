@@ -9,7 +9,7 @@ module Jekyll
         attr_accessor :after_convert_callback
 
         def after_convert(&block)
-          @after_convert_callback = block if block_given?
+          @after_convert_callback = block
         end
       end
 
