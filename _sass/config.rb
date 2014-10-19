@@ -1,13 +1,4 @@
 require 'sass-media_query_combiner'
-require 'autoprefixer-rails'
-require "./remove-all-comments-monkey-patch"
-
-on_stylesheet_saved do |file|
-  css = File.read(file)
-  File.open(file, 'w') do |io|
-    io << AutoprefixerRails.process(css, browsers: ["last 2 version", "> 1%"])
-  end
-end
 
 http_path = "/"
 css_dir = "../css"
@@ -25,13 +16,4 @@ end
 if environment == :production
   line_comments = false
   output_style = :compressed
-
-  require 'fileutils'
-
-  on_stylesheet_saved do |file|
-    if File.exists?(file)
-      filename = File.basename(file, File.extname(file))
-      File.rename(file, "../css" + "/" + filename + ".min" + File.extname(file))
-    end
-  end
 end
