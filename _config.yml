@@ -48,10 +48,6 @@ eventEndTime: "2014-11-16T20:00"
 eventStartTimeHumanReadable: "Nov 15, 10:00"
 eventEndTimeHumanReadable: "Nov 16, 20:00"
 
-#Tweets feed
-twitterHashTag: "devfest"
-twitterFeed: "fixme" # "http://lviv.gdg.org.ua/tweetledee/favoritesjson.php?c=10&cache_interval=900"
-
 # Subscribe
 
 subscribeAction: "http://gdgomsk.us3.list-manage.com/subscribe/post?u=b7e6f7d6f22470e13c0445d05&amp;id=4188aaa7f7"
@@ -137,8 +133,9 @@ venueFeatures: ["<b>Institute of Mathematics and Information Technologies</b> â€
 # Tweets Feed Block
 tweetsFeedImage: "twitter-feed.jpg"
 tweetsFeedTitle: "What's Up?"
-twitterHashTag: "devfest"
-twitterFeed: "http://lviv.gdg.org.ua/tweetledee/favoritesjson.php?c=10&cache_interval=900"
+twitterHashTag: "#devfest #omsk"
+twitterHashTagQuery: "%23devfest%23omsk"
+twitterFeed: "" # http://lviv.gdg.org.ua/tweetledee/favoritesjson.php?c=10&cache_interval=900
 
 # Partners Block
 organizersTitle: "Organizers"
