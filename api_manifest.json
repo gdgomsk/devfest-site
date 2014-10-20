@@ -1,0 +1,17 @@
+---
+permalink: /api/manifest.json
+layout: none
+---
+{
+  "format": "iosched-json-v1",
+  "data_files": [
+    "past_io_videolibrary_v5.json",
+    "experts_v11.json",
+    "hashtags_v8.json",
+    "blocks_v10.json",
+    "map_v11.json",
+    "keynote_v10.json",
+    "partners_v2.json",
+    "session_data_v2.681.json"
+  ]
+}
