@@ -198,7 +198,6 @@ socialLinks:
  - {link: "http://plus.google.com/102520175692033125056", icon: "google-plus"}
  - {link: "http://twitter.com/intent/user?screen_name=GDGOmsk", icon: "twitter"}
  - {link: "http://vk.com/gdgomsk_news", icon: "vk"}
- - {permalink: "/feed.xml", icon: "rss"}
 footerBlocks:
  -
   title: "Links"
