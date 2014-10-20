@@ -1,6 +1,10 @@
 # Site for GDG DevFest Omsk 2014
 Live version — http://gdg-devfest-omsk.org
 
+## Publishing
+
+In order to publish site on GitHub Pages run `rake` in the root of source base.
+
 # Project Zeppelin / GDG DevFest 2014 site template
 
 ### About
