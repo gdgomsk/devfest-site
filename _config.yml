@@ -42,10 +42,10 @@ mapMobileCenterCoordinates: "55.028372, 73.261915"
 eventAddressLocalityRegion: "Omskaya Oblast'"
 eventPostalCode: "644077"
 eventAddressCountry: "Russia"
-eventStartTime: "2014-11-15T10:00"
+eventStartTime: "2014-11-16T10:00"
 eventDoorTime: "09:00"
 eventEndTime: "2014-11-16T20:00"
-eventStartTimeHumanReadable: "Nov 15, 10:00"
+eventStartTimeHumanReadable: "Nov 16, 10:00"
 eventEndTimeHumanReadable: "Nov 16, 20:00"
 
 # Subscribe
@@ -76,25 +76,24 @@ c4sponsorsUrl: "mailto:team@gdg-devfest-omsk.org"
 # Navigation
 navigationLinks:
  - {permalink: "/", text: "Home"}
- - {permalink: "/schedule/", text: "Schedule"}
- - {permalink: "/speakers/", text: "Speakers"}
+# - {permalink: "/schedule/", text: "Schedule"}
+# - {permalink: "/speakers/", text: "Speakers"}
  - {permalink: "/team/", text: "Team"}
  - {permalink: "/logistics/", text: "Logistics"}
- - {permalink: "/hackathon/", text: "Hackathon"}
+# - {permalink: "/hackathon/", text: "Hackathon"}
 bottomNavigationLinks:
- - {link: "http://bit.ly/dfua-c4p", text: "Become a speaker"}
+ - {link: "http://bit.ly/dfua-c4p", text: "Become a speaker (bottom)"}
 rightNavigationButtons:
- - {link: "http://bit.ly/dfua-c4p", text: "Become a speaker"}
+ - {link: "http://bit.ly/dfua-c4p", text: "Become a speaker (right)"}
 
 # Hero Block
 heroImage: "hero.jpg"
 heroTitle: "GDG DevFest <typeout> 2014"
-eventDate: "Join Global DevFest Season! Omsk, November 15-16, 2014."
+eventDate: "Join Global DevFest Season! Omsk, November 2014."
 typeoutTextValues: '"Bay Area", "London", "Омск", "東京", "Львів", "Milano", "Arequipa", "नई दिल्ली", "Bassam", "Madrid", "..."'
 typeoutFallback: "Omsk"
 heroButtons:
  - {link: "/#subscribe", text: "I want to take part"}
- - {permalink: "http://bit.ly/dfua-c4p", text: "Become a speaker"}
 
 # About Block
 aboutTitle: "About GDG DevFest"
