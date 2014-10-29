@@ -42,10 +42,10 @@ mapMobileCenterCoordinates: "55.028372, 73.261915"
 eventAddressLocalityRegion: "Omskaya Oblast'"
 eventPostalCode: "644077"
 eventAddressCountry: "Russia"
-eventStartTime: "2014-11-16T10:00"
+eventStartTime: "2014-11-15T10:00"
 eventDoorTime: "09:00"
 eventEndTime: "2014-11-16T20:00"
-eventStartTimeHumanReadable: "Nov 16, 10:00"
+eventStartTimeHumanReadable: "Nov 15, 10:00"
 eventEndTimeHumanReadable: "Nov 16, 20:00"
 
 # Subscribe
@@ -82,34 +82,33 @@ navigationLinks:
  - {permalink: "/logistics/", text: "Logistics"}
 # - {permalink: "/hackathon/", text: "Hackathon"}
 bottomNavigationLinks:
- - {link: "http://bit.ly/dfua-c4p", text: "Become a speaker (bottom)"}
+ - {link: "#subscribe", text: "I want to take part"}
 rightNavigationButtons:
- - {link: "http://bit.ly/dfua-c4p", text: "Become a speaker (right)"}
+ - {link: "#subscribe", text: "I want to take part"}
 
 # Hero Block
 heroImage: "hero.jpg"
 heroTitle: "GDG DevFest <typeout> 2014"
 eventDate: "Join Global DevFest Season! Omsk, November 2014."
-typeoutTextValues: '"Bay Area", "London", "Омск", "東京", "Львів", "Milano", "Arequipa", "नई दिल्ली", "Bassam", "Madrid", "..."'
+typeoutTextValues: '"Омск", "Bay Area", "London", "東京", "Львів", "Milano", "Arequipa", "नई दिल्ली", "Bassam", "Madrid", "..."'
 typeoutFallback: "Omsk"
 heroButtons:
- - {link: "/#subscribe", text: "I want to take part"}
+ - {link: "#subscribe", text: "I want to take part"}
 
 # About Block
-aboutTitle: "About GDG DevFest"
+aboutTitle: "About GDG DevFest 2014"
 aboutBlock:
- - {title: "Conference", image: "conference.jpg", text: "Highly technical, in-depth sessions focused on building web and mobile apps with Google and open technologies. Awesome speakers and lot's of fun!" }
- - {title: "Ignite", image: "ignite.jpg", text: "Series of five-minute presentations for geeks. Each speaker gets 20 slides that auto-advance after 15 seconds. Apply here to talk at Ignite." }
- - {title: "Barcamp", image: "barcamp.jpg", text: "Open, participatory workshop-events, the content of which is provided by participants. Discuss any topic that you're interested in." }
- - {title: "Hackathon", image: "hackathon.jpg", text: "Full-day freestyle hackathon! Want some real team building on friday? Grab your team and join our hackathon!" }
+ - {title: "Seminar", image: "class.jpg", text: "Listen talks about Wear, Polymer & Cardboards." }
+ - {title: "Ignite & Barcamp", image: "barcamp.jpg", text: "Share your ideas and discuss whatever you want!" }
+ - {title: "Hackathon", image: "hackathon.jpg", text: "Build your own apps on full-day hackathon!" }
 
 # Statistic Block
 statisticBlockImage: "statistic.jpg"
 statisticBlock:
- - {count: "2", specialCharacter: "", info: "Days", detail: "of new knowledges"}
- - {count: "200", specialCharacter: "", info: "Attendees", detail: "from everywhere"}
- - {count: "500", specialCharacter: "+", info: "pizzas", detail: "and other awesome SWAG"}
- - {count: "900", specialCharacter: "+", info: "Minutes", detail: "of great time and fun"}
+ - {count: "2", specialCharacter: "", info: "Days", detail: "of great time"}
+ - {count: "64", specialCharacter: "+", info: "Attendees", detail: "from everywhere"}
+ - {count: "128", specialCharacter: "+", info: "Pizzas", detail: "and other awesome SWAG"}
+ - {count: "512", specialCharacter: "+", info: "AP", detail: "to your experience!"}
 
 # Latest News Block
 latestNewsTitle: "Latest news"
