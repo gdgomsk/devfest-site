@@ -89,7 +89,7 @@ rightNavigationButtons:
 # Hero Block
 heroImage: "hero.jpg"
 heroTitle: "GDG DevFest <typeout> 2014"
-eventDate: "Join Global DevFest Season! Omsk, November 2014."
+eventDate: "Join Global DevFest Season! Omsk, December 13-14, 2014."
 typeoutTextValues: '"Омск", "Bay Area", "London", "東京", "Львів", "Milano", "Arequipa", "नई दिल्ली", "Bassam", "Madrid", "..."'
 typeoutFallback: "Omsk"
 heroButtons:
@@ -99,16 +99,16 @@ heroButtons:
 aboutTitle: "About GDG DevFest 2014"
 aboutBlock:
  - {title: "Seminar", image: "class.jpg", text: "Listen talks about Wear, Polymer & Cardboards." }
- - {title: "Ignite & Barcamp", image: "barcamp.jpg", text: "Share your ideas and discuss whatever you want!" }
- - {title: "Hackathon", image: "hackathon.jpg", text: "Build your own apps on full-day hackathon!" }
+ - {title: "Barcamp", image: "barcamp.jpg", text: "Share your ideas and discuss whatever you want!" }
+ - {title: "Hackathon", image: "hackathon.jpg", text: "Make your own app on full-day hackathon!" }
 
 # Statistic Block
 statisticBlockImage: "statistic.jpg"
 statisticBlock:
- - {count: "2", specialCharacter: "", info: "Days", detail: "of great time"}
- - {count: "64", specialCharacter: "+", info: "Attendees", detail: "from everywhere"}
- - {count: "128", specialCharacter: "+", info: "Pizzas", detail: "and other awesome SWAG"}
- - {count: "512", specialCharacter: "+", info: "AP", detail: "to your experience!"}
+ - {count: "2", specialCharacter: "", info: "Days", detail: "Saturday & Sunday"}
+ - {count: "3", specialCharacter: "", info: "Themes", detail: "Mobile, Web & AR/VR"}
+ - {count: "80", specialCharacter: "", info: "Attendees", detail: "Heroes of Keyboard & Mouse"}
+ - {count: "960", specialCharacter: "+", info: "Mins", detail: "Epic & Unique Gameplay"}
 
 # Latest News Block
 latestNewsTitle: "Latest news"
