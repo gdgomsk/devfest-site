@@ -1,50 +1,91 @@
 -
-  id: 307
+  id: 101
+  title: "Deep Dive into Android Wear"
+  description: "Wearable devices is next big step in IT industry. Learn how to build apps for Android Wear."
+  subtype: presentation
+  speakers: [101]
+  language: ru
+  complexity: "Beginner"
+-
+  id: 102
+  title: "Web Components and Polymer"
+  description: "Learn why is Web Components is top trent of modern Web and how to build great web apps with Polymer."
+  subtype: presentation
+  speakers: [102]
+  language: ru
+  complexity: "Beginner"
+-
+  id: 103
+  title: "Cardboard Reality"
+  description: "Learn how to build virtual reality app with a piece of cardboard"
+  subtype: presentation
+  speakers: [103]
+  language: en
+  complexity: "Beginner"
+-
+  id: 104
   title: "Coffee Break"
+  place: ""
+  service: true
+-
+  id: 105
+  title: "Lighting Talks"
+  description: "Share your experience or point of view related in format of short talk (5 mins as max)"
+  subtype: lightingtalks
+  language: ru
+  complexity: "Beginner"
+-
+  id: 106
+  title: "Office Hours"
+  description: "Ask and discuss any questions about the Hackathon with experts and other attendees."
+  subtype: keynote
+  language: ru
+
+- 
+  id: 201
+  title: "Registration"
   place: "Hall"
   service: true
 -
-  id: 503
+  id: 202
+  title: "Elevator Pitches"
+  description: "At start of hackathon, all teams will share ideas of the app with each other. 1 min for each idea."
+  subtype: pitches
+  speakers: []
+  language: ru
+  complexity: "Beginner"
+-
+  id: 203
+  title: "First Session of Coding"
+  description: "Work in team, build project, have fun!"
+  subtype: coding
+  complexity: "Any"
+-
+  id: 204
   title: "Lunch Break"
   place: "Dining room"
   service: true
 -
-  id: 001
-  title: "Material design: Visual style and imagery"
-  description: "This session will reveal the invisible structures behind the material design system. Designers will show how to use the new color systems, typographic strategies, and the underlying grids that hold it together. They will show how imagery and the new framework material rendering can make apps more interesting and communicate more quickly."
-  subtype: workshop
-  speakers: [3, 6]
-  language: en
-  complexity: "Intermediate"
+  id: 205
+  title: "Second Session of Coding"
+  description: "Work in team, build project, have fun!"
+  subtype: coding
+  complexity: "Any"
 -
-  id: 002
-  title: "Building Cloud-powered wearable Apps"
-  description: "Android wear extends the Android platform to a new generation of wearable devices. The user experience is designed specifically for wearables. In this session you’ll see how to use the Android Wear SDK to build a connected cloud-powered application. Using Android Studio and it’s cloud extensions, you’ll see how to build an app that ‘listens’ for changes in stock prices, and notifies a wearable device. You’ll also see how to use voice controls on the device to trigger interactions with the app, such as buying or selling the stock after a notification. Call to action: Get the SDK and start building apps today!"
-  subtype: presentation
-  speakers: [4, 5]
-  language: en
-  complexity: "Beginner"
+  id: 206
+  title: "Hackfair Countdown"
+  description: "Hackfair is main part of Hackathon! Don't forget to be ready in time!"
+  subtype: hackfair
+  complexity: "The most difficult minutes!"
 -
-  id: 003
-  title: "The world is your playground - go global with Google"
-  description: "More than ever before, developing for global audience is a necessity than a luxury in today's world. Are you ready ... where to start? what does it entail? how do I do it? how to promote in local markets? This talk will address above questions for android, chrome and web developers. In our journey of the where, what and how, we will take an in-depth look at various internationalization and localization tools & strategies available to you."
-  subtype: presentation
-  speakers: [4]
-  language: en
-  complexity: "Expert"
+  id: 207
+  title: "HackFair"
+  description: "Each team will show their results to other teams and to the judges. Demo of your project at hackfair should include brief description of idea (1 min) + hands-on demo on real devices (judge can test application as long as he want and ask additional questions)."
+  subtype: hackfair
+  complexity: "Any"
+  language: ru
 -
-  id: 004
-  title: "Polymer: Interacting with Google Services using nothing but HTML"
-  description: "Google has 1M APIs and services. Every API is different! Learn how you can interact with Google services without writing code! Designing your UI so it works across multiple screen sizes is no longer a nice to have, it is *the* way to build for the web. Using Polymer, we'll cover how to create robust, responsive elements that work across all platforms."
-  subtype: keynote
-  speakers: [6]
-  language: uk
-  complexity: "Beginner"
--
-  id: 005
-  title: "Test: Interacting with Google Services using nothing but HTML"
-  description: "Google has 1M APIs and services. Every API is different! Learn how you can interact with Google services without writing code! Designing your UI so it works across multiple screen sizes is no longer a nice to have, it is *the* way to build for the web. Using Polymer, we'll cover how to create robust, responsive elements that work across all platforms."
-  subtype: keynote
-  speakers: [7]
-  language: en
-  complexity: "Expert"
+  id: 208
+  title: "Closing and GDG Awards"
+  place: "Room 301"
+  service: true
