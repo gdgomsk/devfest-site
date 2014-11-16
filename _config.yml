@@ -32,21 +32,21 @@ organizerLink: "http://gdgomsk.org/"
 
 # Location block
 locationBlockTitle: "Location"
-eventLocationLink: "" # FIXME: set event location link
-eventLocationName: "Omsk State University"
+eventLocationLink: "http://imit.omsu.ru" # FIXME: set event location link
+eventLocationName: "IMIT, OmSU"
 eventStreetAddress: "55a Mira St"
-eventAddressLocality: "Omsk"
+eventAddressLocality: "Omsk, Russia"
 eventPlaceCoordinates: "55.028372, 73.261915"
 mapCenterCoordinates: "55.028372, 73.26"
 mapMobileCenterCoordinates: "55.028372, 73.261915"
 eventAddressLocalityRegion: "Omskaya Oblast'"
 eventPostalCode: "644077"
 eventAddressCountry: "Russia"
-eventStartTime: "2014-11-15T10:00"
+eventStartTime: "2014-12-13T13:30"
 eventDoorTime: "09:00"
-eventEndTime: "2014-11-16T20:00"
-eventStartTimeHumanReadable: "Nov 15, 10:00"
-eventEndTimeHumanReadable: "Nov 16, 20:00"
+eventEndTime: "2014-12-14T20:00"
+eventStartTimeHumanReadable: "Dec 13, 13:30"
+eventEndTimeHumanReadable: "Dec 14, 20:00"
 
 # Subscribe
 
@@ -67,24 +67,21 @@ socialImageSrcFacebook: "/img/seo/sharing-facebook.png"
 # About Event Block
 eventName: "GDG DevFest Omsk 2014"
 
-# Team Block
-aboutUs: "Hi everyone! We're small team of enthusiasts. We like knowledges, communication and rocket-science technologies. We're are organizing GDG DevFest Omsk to inspire you to make positive step forward. We'll do our best to create magic, productive and smiling atmosphere on the event. We hope, DevFest Omsk will light new talents and new awesome initiatives!"
-
 # Documents
 c4sponsorsUrl: "mailto:team@gdg-devfest-omsk.org"
 
 # Navigation
 navigationLinks:
- - {permalink: "/", text: "Home"}
+ - {permalink: "/", text: "About"}
  - {permalink: "/schedule/", text: "Schedule"}
 # - {permalink: "/speakers/", text: "Speakers"}
- - {permalink: "/team/", text: "Team"}
- - {permalink: "/logistics/", text: "Logistics"}
+ - {permalink: "/location/", text: "Location"}
+ - {permalink: "/organizers/", text: "Organizers"}
 # - {permalink: "/hackathon/", text: "Hackathon"}
 bottomNavigationLinks:
- - {link: "#subscribe", text: "I want to take part"}
+ - {link: "http://gdg-omsk.timepad.ru/event/160828/", text: "I want to take part"}
 rightNavigationButtons:
- - {link: "#subscribe", text: "I want to take part"}
+ - {link: "http://gdg-omsk.timepad.ru/event/160828/", text: "I want to take part"}
 
 # Hero Block
 heroImage: "hero.jpg"
@@ -93,20 +90,20 @@ eventDate: "Join Global DevFest Season! Omsk, December 13-14, 2014."
 typeoutTextValues: '"Омск", "Bay Area", "London", "東京", "Львів", "Milano", "Arequipa", "नई दिल्ली", "Bassam", "Madrid", "..."'
 typeoutFallback: "Omsk"
 heroButtons:
- - {link: "#subscribe", text: "I want to take part"}
+ - {link: "http://gdg-omsk.timepad.ru/event/160828/", text: "I want to take part"}
 
 # About Block
 aboutTitle: "About GDG DevFest 2014"
 aboutBlock:
- - {title: "Seminar", image: "class.jpg", text: "Listen talks about Wear, Polymer & Cardboards." }
- - {title: "Barcamp", image: "barcamp.jpg", text: "Share your ideas and discuss whatever you want!" }
- - {title: "Hackathon", image: "hackathon.jpg", text: "Make your own app on full-day hackathon!" }
+ - {title: "Seminar", image: "class.jpg", text: "Learn before Hackathon<br/>December 13" }
+ - {title: "Hackathon", image: "hackathon-6.jpg", text: "Make your own app on full-day hackathon!<br/>December 14" }
+ - {title: "Hackfair", image: "hackfair.jpg", text: "Share your results and win great prizes!<br/>Key part of Hackathon" }
 
 # Statistic Block
-statisticBlockImage: "statistic.jpg"
+statisticBlockImage: "cover.jpg"
 statisticBlock:
  - {count: "2", specialCharacter: "", info: "Days", detail: "Saturday & Sunday"}
- - {count: "3", specialCharacter: "", info: "Themes", detail: "Mobile, Web & AR/VR"}
+ - {count: "3", specialCharacter: "", info: "Tracks", detail: "Mobile, Web & AR/VR"}
  - {count: "80", specialCharacter: "", info: "Attendees", detail: "Heroes of Keyboard & Mouse"}
  - {count: "960", specialCharacter: "+", info: "Mins", detail: "Epic & Unique Gameplay"}
 
@@ -151,42 +148,28 @@ ticketsTitle: "Pricetable"
 ticketsInfo: "Tickets grant access to all conference sections, coffee brakes, lunch and party. Accommodation is NOT included in the ticket price."
 ticketsOffers:
  -
-  name: "Early Bird"
-  price: "350"
-  priceCurrency: "UAH"
-  ticketsNumber: "150"
-  ribbon: "-5%"
+  name: "Invites"
+  price: "Free"
+  priceCurrency: ""
+  ticketsNumber: "20"
   buyButtonLink: "http://dfua.ticketforevent.com/"
-  buyButtonText: "Buy Now"
-  ticketContentList: ["Lorem ipsum is simply", "Dummy text of the printing", "Typesetting industry"]
+  buyButtonText: "Sent Out"
+  ticketContentList: [""]
   validFrom: "2014-08-25T10:00"
-  validThrough: "2014-09-30T23:59"
+  validThrough: "2014-11-22T00:00"
+  disabled: false
  -
-  name: "Last Chance"
-  price: "450"
-  priceCurrency: "UAH"
+  name: "Tickets"
+  price: "Free"
+  priceCurrency: ""
   ticketsNumber: "100"
-  ribbon: "-20%"
   featured: true
   buyButtonLink: "http://dfua.ticketforevent.com/"
-  buyButtonText: "Buy Now"
+  buyButtonText: "Get now"
   ticketContentList: ["Lorem ipsum is simply", "Dummy text of the printing", "Typesetting industry"]
-  validFrom: "2014-10-01T00:00"
-  validThrough: "2014-10-23T23:59"
+  validFrom: "2014-11-22T10:00"
+  validThrough: "2014-12-12T23:59"
   disabled: true
- -
-  name: "Student"
-  price: "200"
-  priceCurrency: "UAH"
-  ticketsNumber: "50"
-  buyButtonLink: "http://dfua.ticketforevent.com/"
-  buyButtonText: "Buy Now"
-  additionalInfo: "Requires a valid student ID at the conference check in. Without student ID at the check in, ticket will be cancelled without refund"
-  ticketContentList: ["Lorem ipsum is simply", "Dummy text of the printing", "Typesetting industry"]
-  validFrom: "2014-08-20T10:00"
-  validThrough: "2014-10-23T23:59"
-  soldOut: true
-  soldOutText: "Sold Out"
 
 # Footer
 socialLinks:
@@ -219,10 +202,10 @@ showSessions: true
 
 # Team Block
 teamBlockTitle: "About us"
-aboutUs: "Google's services have become synonymous with simple things online. Number of technological innovations and IT industries in which Google is creating new products is enormous. It's hard to get to know all of them, but realistic. This is why people have started to gather in small local groups and share their experience. Later, the following groups have been called Google Developer Groups. GDGs can take many forms -- from just a few people getting together to watch some videos, to large gatherings with demos, tech talks, hackathons and conferences."
+aboutUs: "We're small team of enthusiasts. We like knowledges, communication and rocket-science technologies. We're are organizing GDG DevFest Omsk to inspire you to make positive step forward. We'll do our best to create magic, productive and smiling atmosphere on the event. We hope, DevFest Omsk will light new talents and new awesome initiatives!"
 
 # Logistics Find Way Block
-findWayTitle: "Find your way here"
+findWayTitle: "Omsk, Mira 55a"
 findWayDistance: "Distance"
 findWayDriving: "DRIVING"
 findWayWalking: "WALKING"

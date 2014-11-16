@@ -9,23 +9,11 @@
     - {abbr: "GDG", title: "Google Developer Group"}
   social:
     - {name: "google-plus", link: "http://google.com/+AlexKorovyansky"}
-    - {name: "twitter", link: "http://twitter.com/korovyansk"}
-    - {name: "github", link: "http://github.com/korovyansk"}
-    - {name: "site", link: "http://alexkorovyansky.com/"}
+    - {name: "twitter", link: "http://twitter.com/AlexKorovyansky"}
+    - {name: "github", link: "http://github.com/AlexKorovyansky"}
+    - {name: "site", link: "http://korovyansk.ghost.io/"}
 -
   id: 1
-  name: "Serik"
-  surname: "Beysenov"
-  title: "Organizer of GDG Omsk"
-  thumbnailUrl: serik.jpg
-  team: true
-  social:
-    - {name: "google-plus", link: "http://gplus.to/serbeys"}
-    - {name: "twitter", link: "https://twitter.com/serbeys"}
-    - {name: "github", link: "fixme"}
-    - {name: "site", link: "fixme"}
--
-  id: 2
   name: "Ekaterina"
   surname: "Pender"
   title: "Leader of GDG Omsk"
@@ -36,10 +24,45 @@
   social:
     - {name: "google-plus", link: "http://plus.google.com/109261224216765187591"}
     - {name: "twitter", link: "http://twitter.com/chvetochek"}
-    - {name: "github", link: "fixme"}
-    - {name: "site", link: "fixme"}
+-
+  id: 2
+  name: "Serik"
+  surname: "Beysenov"
+  title: "Organizer of GDG Omsk"
+  thumbnailUrl: serik.jpg
+  team: true
+  social:
+    - {name: "google-plus", link: "http://gplus.to/serbeys"}
+    - {name: "twitter", link: "https://twitter.com/serbeys"}
 -
   id: 3
+  name: "Vitalina"
+  surname: "Drozd"
+  title: "Writer of GDG Omsk"
+  thumbnailUrl: vita.jpg
+  team: true
+  social:
+    - {name: "google-plus", link: "http://plus.google.com/114702521941771930220"}
+    - {name: "twitter", link: "http://twitter.com/Angry_Drozd"}
+-
+  id: 4
+  name: "Vladimir"
+  surname: "Nikolaev"
+  title: "Chief of IMIT"
+  thumbnailUrl: nikolaev.jpg
+  team: true
+-
+  id: 5
+  name: "Alexey"
+  surname: "Zinoviev"
+  title: "Leader of GDG Omsk"
+  thumbnailUrl: alexey.jpg
+  team: true
+  social:
+    - {name: "google-plus", link: "http://plus.google.com/110650159101065784429"}
+    - {name: "twitter", link: "http://twitter.com/zaleslaw"}
+-
+  id: 6
   name: "Andrey"
   surname: "Krivko"
   title: "Organizer of GDG Omsk"
@@ -50,42 +73,6 @@
     - {name: "twitter", link: "https://twitter.com/jastkand"}
     - {name: "github", link: "https://github.com/jastkand"}
 -
-  id: 4
-  name: "Vladimir"
-  surname: "Nikolaev"
-  title: "Chief of IMIT"
-  thumbnailUrl: nikolaev.jpg
-  team: true
-  social:
-    - {name: "google-plus", link: "fixme"}
-    - {name: "github", link: "fixme"}
-    - {name: "site", link: "fixme"}
--
-  id: 5
-  name: "Alexey"
-  surname: "Zinoviev"
-  title: "Leader of GDG Omsk"
-  thumbnailUrl: alexey.jpg
-  team: true
-  ribbon:
-    - {abbr: "GDG", title: "Google Developer Group"}
-  social:
-    - {name: "google-plus", link: "http://plus.google.com/110650159101065784429"}
-    - {name: "twitter", link: "http://twitter.com/zaleslaw"}
-    - {name: "github", link: "fixme"}
-    - {name: "site", link: "fixme"}
--
-  id: 6
-  name: "Vitalina"
-  surname: "Drozd"
-  title: "Writer of GDG Omsk"
-  thumbnailUrl: vita.jpg
-  team: true
-  social:
-    - {name: "google-plus", link: "http://plus.google.com/114702521941771930220"}
-    - {name: "twitter", link: "http://twitter.com/Angry_Drozd"}
-    - {name: "site", link: "fixme"}
--
   id: 7
   name: "Kostya"
   surname: "Dravolin"
@@ -95,8 +82,6 @@
   social:
     - {name: "google-plus", link: "http://plus.google.com/110048547693630070186"}
     - {name: "twitter", link: "http://twitter.com/zak_dk"}
-    - {name: "github", link: "fixme"}
-    - {name: "site", link: "fixme"}
 -
   id: 8
   name: "Dmitry"
@@ -106,5 +91,3 @@
   team: true
   social:
     - {name: "google-plus", link: "http://plus.google.com/105193729939791100390"}
-    - {name: "github", link: "fixme"}
-    - {name: "site", link: "fixme"}

@@ -400,7 +400,7 @@
                 mapOptions.center = mobileCenterMap;
             }
             if (googleMaps == 'logistics') {
-                mapOptions.zoom = 5;
+                mapOptions.zoom = 16;
                 mapOptions.zoomControl = true;
             }
 

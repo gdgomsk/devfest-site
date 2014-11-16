@@ -13,11 +13,11 @@
 - 
   id: 102
   name: "Serik"
-  surname: "Beisenov"
+  surname: "Beysenov"
   company: "GDG Omsk"
   title: ""
   bio: "TBD"
-  thumbnailUrl: serik_beisenov.jpg
+  thumbnailUrl: serik_beysenov.jpg
   social: 
     - {name: "google-plus", link: "https://google.com/+SerikBeisenov"}
     - {name: "twitter", link: "https://twitter.com/SerBeys"}
