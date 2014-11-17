@@ -1,5 +1,5 @@
 # Site for GDG DevFest Omsk 2014
-Live version — http://gdg-devfest-omsk.org
+Live version — http://www.gdg-devfest-omsk.org
 
 ## Publishing
 
