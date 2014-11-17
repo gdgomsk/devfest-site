@@ -96,8 +96,8 @@ heroButtons:
 aboutTitle: "About GDG DevFest 2014"
 aboutBlock:
  - {title: "Seminar", image: "class.jpg", text: "Learn before Hackathon<br/>December 13" }
- - {title: "Hackathon", image: "hackathon-6.jpg", text: "Make your own app on full-day hackathon!<br/>December 14" }
- - {title: "Hackfair", image: "hackfair.jpg", text: "Share your results and win great prizes!<br/>Key part of Hackathon" }
+ - {title: "Hackathon", image: "hackathon-6.jpg", text: "Make your own app on full-day Hackathon!<br/>December 14" }
+ - {title: "Hackfair", image: "hackfair.jpg", text: "Share your results and win great prizes!<br/>Main part of Hackathon" }
 
 # Statistic Block
 statisticBlockImage: "cover.jpg"
