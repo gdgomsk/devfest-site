@@ -1,21 +1,21 @@
 -
   id: 101
   title: "Deep Dive into Android Wear"
-  description: "Wearable devices is next big step in IT industry. Learn how to build apps for Android Wear."
+  description: "Take a developer's tour of the Android Wear SDK. Learn how design and create first-class apps for Android Wear. After the session you will be familar with core concepts of wearable computing and be able to create your own app for Android Wear."
   subtype: presentation
   speakers: [101]
   complexity: "Beginner"
 -
   id: 102
   title: "Web Components and Polymer"
-  description: "Learn why is Web Components is top trent of modern Web and how to build great web apps with Polymer."
+  description: "Learn why Web Components is top trend of modern Web and how to build great web apps with Polymer."
   subtype: presentation
   speakers: [102]
   complexity: "Beginner"
 -
   id: 103
   title: "Cardboard Reality"
-  description: "Learn how to build virtual reality app with a piece of cardboard"
+  description: "Want a virtual reality headset, but can't afford the hefty pricetag on most existing models? Then Cardboard by Google is your way to virtual reality. It's not exactly the Oculus Rift, but who cares what the outside looks like if the virtual reality experience is any good? After the session, you will know everything about Google Cardboard, the app and toolkit that lets Android users transform their phones into pure AR/VR headsets."
   subtype: presentation
   speakers: [103]
   complexity: "Beginner"
@@ -27,13 +27,13 @@
 -
   id: 105
   title: "Lighting Talks"
-  description: "Share your experience or point of view related in format of short talk (5 mins as max)"
+  description: "Share your experience or point of view in format of short talk (5 mins as max)."
   subtype: lightingtalks
   complexity: "Beginner"
 -
   id: 106
   title: "Office Hours"
-  description: "Ask and discuss any questions about the Hackathon with experts and other attendees."
+  description: "Ask and discuss any questions with experts and other attendees."
   subtype: keynote
 
 - 
@@ -44,7 +44,7 @@
 -
   id: 202
   title: "Elevator Pitches"
-  description: "At start of hackathon, all teams will share ideas of the app with each other. 1 min for each idea."
+  description: "At start of Hackathon, all teams will share their apps' ideas and plans to the event in form of 1 min 'elevator pitches'."
   subtype: pitches
   speakers: []
   complexity: "Beginner"

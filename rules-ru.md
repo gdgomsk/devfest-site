@@ -16,7 +16,7 @@ image: ruler.jpg
 Темы мероприятия:
 
 * Wearable Devices
-* Modern Web-Frontend
+* Future of Web Front-end
 * Augmented & Virtual Reality
 
 Для участия в мероприятии необходимо:
@@ -30,10 +30,10 @@ image: ruler.jpg
 ##### Идея  
 При разработке проекта, **обязательным** условием является использование одной из перечисленных ниже тематических технологий:
 
-* Polymer, Web Componets, AngularJS, Dart, БЭМ
-* Android Wear SDK, Pebble SDK, Apple iWatch SDK
-* Glass Mirror API, Glass Development Kit
-* Cardboard VR SDK, Oculus SDK
+* [Polymer](https://www.polymer-project.org/), [Web Componets](http://webcomponents.org/), [AngularJS](https://angularjs.org/), [Dart](https://www.dartlang.org/), [BEM](http://bem.info/)
+* [Android Wear SDK](https://developer.android.com/wear/index.html), [Pebble SDK](http://developer.getpebble.com/), [Apple iWatch SDK](http://appleinsider.com/articles/14/10/16/apple-announces-watchkit-sdk-for-developers-launches-in-november)
+* [Glass Mirror API](https://developers.google.com/glass/), [Glass Development Kit](https://developers.google.com/glass/develop/gdk/)
+* [Cardboard VR SDK](https://developers.google.com/cardboard/overview), [Oculus Rift SDK](https://developer.oculus.com/)
 
 Секрет успеха — придумайте простую и интересную вам идею! Не пытайтесь выиграть хакатон за счет сложности идеи. Хакатоны выигрываются за счет хорошей реализации простых идей. Заметьте, что на хакатоне вы можете создавать новое приложение или улучшать уже существующее. 
 
