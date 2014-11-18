@@ -26,7 +26,7 @@ siteVerification: "" # TODO: Get google site verification code
 organizerName: "GDG Omsk"
 organizerAlternateName: "Google Developer Group Omsk"
 organizerDescription: "Open and volunteer geek communities who create exciting projects and share experience about Google technology with passion."
-organizerEmail: "org.team@gdgomsk.org"
+organizerEmail: "team@gdg-devfest-omsk.org"
 organizerLogo: "/img/seo/organizer-logo.png"
 organizerLink: "http://gdgomsk.org/"
 
@@ -73,11 +73,11 @@ c4sponsorsUrl: "mailto:team@gdg-devfest-omsk.org"
 # Navigation
 navigationLinks:
  - {permalink: "/", text: "About"}
+ - {permalink: "/rules/", text: "Rules"}
  - {permalink: "/schedule/", text: "Schedule"}
 # - {permalink: "/speakers/", text: "Speakers"}
  - {permalink: "/location/", text: "Location"}
  - {permalink: "/organizers/", text: "Organizers"}
-# - {permalink: "/hackathon/", text: "Hackathon"}
 bottomNavigationLinks:
  - {link: "http://gdg-omsk.timepad.ru/event/160828/", text: "I want to take part"}
 rightNavigationButtons:
@@ -185,7 +185,7 @@ footerBlocks:
  -
   title: "Contacts"
   links:
-   - {link: "mailto:org.team@gdgomsk.org", text: "org.team@gdgomsk.org"}
+   - {link: "mailto:team@gdg-devfest-omsk.org", text: "team@gdg-devfest-omsk.org"}
  -
   title: "FAQ"
   links:
@@ -240,9 +240,9 @@ enableHackathon: true
 # Hackathon About Block
 aboutHackathonTitle: "Meet our themes"
 hackathonRows:
- - {title: "Android Wear", image: "hackathon-0.png", details: "The front doors will be locked because this is after hours, please park behind the building and come to the door nearest the parking lot.<br><br>Our last meeting showed that there was a lot of interest in Android Wear so we decided to put on an Android Wear Hackathon to see what you could come up with! We realize that this is pretty short notice so we hope you can help us spread the word! There will be pizza, prizes and a great group of geeks to spend the evening coding with! Even if you don't have an app idea come on in and lend a hand to someone else or maybe find inspiration once you're here!"}
- - {title: "Google Glass", image: "hackathon-1.png", details: "We love wearable computing especially Google Glass for which we want to gather the break up community in order to boost innovation.<br><br>Coding an app on Google Glass needs its Rockstar Dev : the team needs a fast learner with solid skills on Android. He knows his way around Android SDK, already checked the Glass Developement Kit (GDK) quick start guide allowing him to jump start developing an app for Glass.The Designer has the hard task to build the visual identity from the ground up, he has strong UX knowledge and a deep understanding of the new rules set by the Glass. His design skills give him the credibility to decide the most effective UI and the most compelling Glass experience."}
- - {title: "Polymer", image: "hackathon-2.png", details: "Polymer is a library that introduces web components. Web components are small elements on a page that can be extended and incorporated in web applications. The result is an increase in productivity.<br><br>We used Polymer mainly to explore the concept of web components. The transition of Google to material design was also a factor.While the library was never touched by the team, it still was painless to wireframe the application. Later on we incorporated some Polymer components in the design. We didn’t use the full potential of Polymer because of the limited time."}
+ - {title: "Wearable Devices", image: "wearables.png", details: "A wearable computer is an electronic device capable of storing and processing data that is incorporated into a person's clothing or personal accessories. Famous examples of wearable devices in our days are Google Glass, Moto X 360, Pebble, Apple iWatch and a lot of other devices. Wearable computing is huge and rapidly growing area, it provides a lot of opportunities for innovations and creation of new great products and solutions! Don't skip a chance to create you one at hackathon!"}
+ - {title: "Modern Front-end", image: "front-end.png", details: "In last years it was a incredible spurt in innovation that completely changes what it means to be a web front-end developer! It's moment of renaissance and right time for creation of really awesome apps with great user experience. The main problem is to know right tools and techs! Hackathon is perfect place for deep dive into such things like Web Components, Polymer, AngularJS, Dart, БЭМ, Bootstrap, Bower, GruntJS, NPM, JSHint and others. Also DevFest is great place for sharing of knowledge and open discussions."}
+ - {title: "AR/VR Reality", image: "cardboard.png", details: "With Augmented Reality apps, users are able to interact with virtual contents in the real world, and are able to distinguish between the two. Virtual reality is all about the creation of a virtual world, for example for walking in Hermitage museum or playing immersive game. With Nexus 5 and piece of cardboard almost everyone can create great AR or VR app! If you have cool ideas of AR/VR apps and you love Maths, we would be happy to see your application! "}
 
 # Hackathon Judges Block
 judgesImage: "judges.jpg"
