@@ -1,14 +1,7 @@
 # Build Settings
 markdown: kramdown
 permalink: pretty
-exclude:
-  - '/automation/'
-  - 'README.md'
-  - 'LICENSE.txt'
-  - 'CNAME'
-  - 'Gemfile'
-  - 'Gemfile.lock'
-  - 'Rakefile'
+exclude: ['/automation/', 'README.md', 'LICENCE.txt', 'CNAME', 'Gemfile', 'Gemfile.lock', 'Rakefile']
 
 
 # Site Settings
