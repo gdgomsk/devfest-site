@@ -1,6 +1,6 @@
 -
   id: 101
-  title: "Deep Dive into Android Wear"
+  title: "Hello, Android Wear!"
   description: "Take a developer's tour of the Android Wear SDK. Learn how design and create first-class apps for Android Wear. After the session you will be familar with core concepts of wearable computing and be able to create your own app for Android Wear."
   subtype: presentation
   speakers: [101]
@@ -35,7 +35,6 @@
   title: "Office Hours"
   description: "Ask and discuss any questions with experts and other attendees."
   subtype: keynote
-
 - 
   id: 201
   title: "Registration"

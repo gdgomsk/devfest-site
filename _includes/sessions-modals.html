@@ -12,7 +12,7 @@
 							<div class="close-mask" data-dismiss="modal"></div>
 						</div>
 						<h4>{{ session.title }}</h4>
-						<span class="theme-metadata"><span class="caption">Language: </span>{{ session.language }}</span>
+						{% if session.language %} <span class="theme-metadata"><span class="caption">Language: </span>{{ session.language }}</span>{% endif %}
 						<span class="theme-metadata"><span class="caption">Complexity: </span>{{ session.complexity }}</span>
 						<p class="theme-description">{{ session.description }}</p>
 						<hr>
@@ -26,7 +26,7 @@
 										</div>
 										<div class="col-md-10 col-sm-10 details">
 											<p class="name">{{ speaker.name }} {{ speaker.surname }}
-												<span class="position">{{ speaker.title }}, {{ speaker.company }}</span>
+												<span class="position">{% if speaker.title %} {{ speaker.title }}, {% endif %}{{ speaker.company }}</span>
 											</p>
 											{% if speaker.ribbon != null %}
 											<div class="modal-ribbon-wrapper">

@@ -3,8 +3,7 @@
   name: "Alex"
   surname: "Korovyansky"
   company: "GDG Omsk"
-  title: ""
-  bio: "Alex is passionate Android Developer with strong exeperience in development of business apps. He is author of several cute android apps, including Wear Pomodoro — handy productivity app for Android Wear. Also Alex is founder of Google Developer Group Omsk, he is change-maker and organizer of several events and intiatives in the community, including GDG DevFest Omsk."
+  bio: 'Alex is proactive Android Developer with strong exeperience in development of business apps. He is author of several cute Android apps, including <a href="https://play.google.com/store/apps/details?id=com.alexkorovyansky.wearpomodoro&hl=en" target="_blank">Wear Pomodoro</a> — handy productivity app for Android Wear. Alex is founder of Google Developer Group Omsk, author and implemeter of several change-making initiatives in the community, including GDG DevFest Omsk.'
   thumbnailUrl: alex_korovyansky.jpg
   social: 
     - {name: "google-plus", link: "https://google.com/+AlexKorovyansky"}
@@ -15,7 +14,6 @@
   name: "Serik"
   surname: "Beysenov"
   company: "GDG Omsk"
-  title: ""
   bio: "TBD"
   thumbnailUrl: serik_beysenov.jpg
   social: 
@@ -26,6 +24,5 @@
   name: "Sergey"
   surname: "Baranov"
   company: "GDG Omsk"
-  title: ""
-  bio: "TBD"
+  bio: "Sergey is young technology enthusiast, who loves progressive technologies, new amazing products, and startups. He is 5th year student of Siberian State Automobile and Highway Academy. Sergey is a graduate of GDG Omsk Labs 2013 and the winner of У.М.Н.И.К. 2013 with project devoted to person verification by palm vein pattern. Since 2013 Sergey is very active participant of the community."
   thumbnailUrl: sergey_baranov.jpg
