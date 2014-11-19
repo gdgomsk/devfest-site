@@ -3,7 +3,7 @@
   name: "Alex"
   surname: "Korovyansky"
   company: "GDG Omsk"
-  bio: 'Alex is proactive Android Developer with strong exeperience in development of business apps. He is author of several cute Android apps, including <a href="https://play.google.com/store/apps/details?id=com.alexkorovyansky.wearpomodoro&hl=en" target="_blank">Wear Pomodoro</a> — handy productivity app for Android Wear. Alex is founder of Google Developer Group Omsk, author and implemeter of several change-making initiatives in the community, including GDG DevFest Omsk.'
+  bio: 'Alex is proactive Android Developer with large exeperience in development of business apps. He is also author of several cute Android apps, including <a href="https://play.google.com/store/apps/details?id=com.alexkorovyansky.wearpomodoro&hl=en" target="_blank">Wear Pomodoro</a> — a handy productivity app for Android Wear. Alex is founder of Google Developer Group Omsk, author and implemeter of several change-making initiatives in the community, including GDG DevFest Omsk.'
   thumbnailUrl: alex_korovyansky.jpg
   social: 
     - {name: "google-plus", link: "https://google.com/+AlexKorovyansky"}
