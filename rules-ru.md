@@ -31,7 +31,7 @@ image: ruler.jpg
 При разработке проекта, **обязательным** условием является использование одной из перечисленных ниже тематических технологий:
 
 * [Polymer](https://www.polymer-project.org/), [Web Componets](http://webcomponents.org/), [AngularJS](https://angularjs.org/), [Dart](https://www.dartlang.org/), [BEM](http://bem.info/)
-* [Android Wear SDK](https://developer.android.com/wear/index.html), [Pebble SDK](http://developer.getpebble.com/), [Apple iWatch SDK](http://appleinsider.com/articles/14/10/16/apple-announces-watchkit-sdk-for-developers-launches-in-november)
+* [Android Wear SDK](https://developer.android.com/wear/index.html), [Pebble SDK](http://developer.getpebble.com/), [Apple WatchKit SDK](https://developer.apple.com/watchkit/), [Tizen SDK for Wearable](http://developer.samsung.com/gear)
 * [Glass Mirror API](https://developers.google.com/glass/), [Glass Development Kit](https://developers.google.com/glass/develop/gdk/)
 * [Cardboard VR SDK](https://developers.google.com/cardboard/overview), [Oculus Rift SDK](https://developer.oculus.com/)
 
