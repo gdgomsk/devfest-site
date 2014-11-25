@@ -37,7 +37,7 @@ It is **required** to use at least one of *thematic* technologies in the list be
 The secret of successful idea is that it's simple and interesting for you to make. We do not encourage you to impress others with complexity of the project, yet well-built realization of simple idea is the key to win. Notice, you can create new app on the hackathon or improve already existing one.
 
 ##### Team
-**Required** team size is 2-3 participants. Team members and idea must be determined by the time of application! Well-built team and role playing are vital for successful programming on hackathons, so you are strongly recommended to discuss your idea and roles before the event.
+**Required** team size is 2-3 participants. Team members and idea must be determined by the time of application! Well-built team and role playing are vital for successful programming on hackathons, so you are strongly recommended to discuss your idea and roles before the event. If you don't have a team right now, feel free to find your one through collaboration in [handy Google Doc](http://goo.gl/nrpo5B).
 
 ##### Application
 Use [TimePad service](http://gdg-omsk.timepad.ru/event/160828/) to apply for the event. It is **required** to select number of tickets equal to number of members of your team. Be careful while filling in the application form. Once you finish, organizers will consider your team to be event participants.
