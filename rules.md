@@ -50,6 +50,11 @@ On December 13th we will organize educational and discussional seminar. Every ti
 ##### Hackathon
 Hackathon will have three parts. In the beginning each team will make short Elevator Pitch about project idea and plans for hackathon. Next, all teams will have 8 hours to hack their projects with breaks for rest and pizzas. At the end, we will have HackFair, where each team will be able to show their results to judges and other participants.
 
+##### Conditions for work
+Every team will be provided with comforts needed to work within the project: experts to talk to, high speed internet and sockets to charge the devices. In the middle of the day a tasty lunch will be served; tea,coffee and snacks are available at any time.
+   
+Please, note that every team is responsible for supplying itself with necessary equipment like laptops, wearable computing, smart phones, usb-cables, etc.
+
 ##### Judging
 Winners in three main categories (Wearable Devices, Modern Web Front-end, Augmented & Virtual Reality) will be based on results of the hackfair and quilified juries' verdict. 
 
