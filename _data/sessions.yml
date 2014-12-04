@@ -7,34 +7,43 @@
   complexity: "Beginner"
 -
   id: 102
-  title: "Web Components and Polymer"
-  description: "Learn why Web Components is top trend of modern Web and how to build great web apps with Polymer."
+  title: "Life in Material Era"
+  description: "Materialize your apps! We will talk about a major change in the design of the year — Material Design. Why it concerns both designers and developers, and how to work with it. After the session you will know how to port your holo apps to material style, as well as how to apply the new paradigm in the design of web interfaces."
   subtype: presentation
-  speakers: [102]
+  speakers: [102, 103]
   complexity: "Beginner"
 -
   id: 103
   title: "Cardboard Reality"
   description: "Want a virtual reality headset, but can't afford the hefty pricetag on most existing models? Then Cardboard by Google is your way to virtual reality. It's not exactly the Oculus Rift, but who cares what the outside looks like if the virtual reality experience is as good? After the session, you will know a lot more about features of Google Cardboard, the app and toolkit that let Android users transform their phones into complete AR/VR headsets."
   subtype: presentation
-  speakers: [103]
+  speakers: [104]
   complexity: "Beginner"
 -
   id: 104
+  title: "Web Components and Polymer"
+  description: "Polymer is a new Google technology that allows us to use Web Components in modern browsers. With Polymer we can easily create interactive and maintainable applications using ready components. During the talk you will learn what is Polymer and how to create fast prototypes and applications with material design using it."
+  subtype: presentation
+  speakers: [105]
+  complexity: "Beginner"
+-
+  id: 105
   title: "Coffee Break"
   place: ""
   service: true
 -
-  id: 105
+  id: 106
   title: "Lighting Talks"
   description: "Share your experience or point of view in format of short talk (5 mins as max)."
-  subtype: lightingtalks
+  subtype: common
+  speakers: [106]
   complexity: "Beginner"
 -
-  id: 106
+  id: 107
   title: "Office Hours"
-  description: "Ask and discuss any questions with experts and other attendees."
-  subtype: keynote
+  description: "Feel free to ask the speakers any questions and discuss any topics."
+  subtype: keynote  
+  speakers: [101, 102, 103, 104, 105]
 - 
   id: 201
   title: "Registration"
@@ -42,17 +51,17 @@
   service: true
 -
   id: 202
-  title: "Elevator Pitches"
-  description: "At start of Hackathon, all teams will share their apps' ideas and plans to the event in form of 1 min 'elevator pitches'."
-  subtype: pitches
-  speakers: []
+  title: "Opening and Elevator Pitches"
+  description: "After opening ceremony and a couple of words from organizers, all teams will share their apps' ideas and plans to the event in form of 1 min 'elevator pitches'."
+  subtype: common
+  speakers: [106]
   complexity: "Beginner"
 -
   id: 203
   title: "First Session of Coding"
-  description: "Work in team, build project, have fun!"
-  subtype: coding
-  complexity: "Any"
+  description: "Work in team, build your project, and have fun!"
+  subtype: common
+  speakers: [106]
 -
   id: 204
   title: "Lunch Break"
@@ -61,21 +70,21 @@
 -
   id: 205
   title: "Second Session of Coding"
-  description: "Work in team, build project, have fun!"
-  subtype: coding
-  complexity: "Any"
+  description: "Work in team, build your project, and have fun!"
+  subtype: common
+  speakers: [106]
 -
   id: 206
   title: "Hackfair Countdown"
   description: "Hackfair is main part of Hackathon! Don't forget to be ready in time!"
-  subtype: hackfair
-  complexity: "The most difficult minutes!"
+  subtype: common
+  speakers: [106]
 -
   id: 207
   title: "HackFair"
   description: "Each team will show their results to other teams and to the judges. Demo of your project at hackfair should include brief description of idea (1 min) + hands-on demo on real devices (judge can test application as long as he want and ask additional questions)."
-  subtype: hackfair
-  complexity: "Any"
+  subtype: common
+  speakers: [106]
 -
   id: 208
   title: "Closing and GDG Awards"
