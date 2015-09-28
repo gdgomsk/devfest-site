@@ -6,20 +6,20 @@ exclude: ['/automation/', 'README.md', 'LICENCE.txt', 'Gemfile', 'Gemfile.lock',
 
 # Site Settings
 title: GDG DevFest Omsk 2014
-email: team@gdg-devfest-omsk.org
+email: org.team@gdgomsk.org
 description: "GDG DevFest is a set of events all around the world"
 baseurl: ""
-url: "http://www.gdg-devfest-omsk.org"
+url: "http://devfest.gdgomsk.org"
 permalink: /blog/:title
 googleAnalyticsTrackingId: "UA-23085453-4"
-googleAnalyticsSiteUrl: "gdg-devfest-omsk.org"
+googleAnalyticsSiteUrl: "devfest.gdgomsk.org"
 siteVerification: "" # TODO: Get google site verification code
 
 # Organizer Info
 organizerName: "GDG Omsk"
 organizerAlternateName: "Google Developer Group Omsk"
 organizerDescription: "Open and volunteer geek communities who create exciting projects and share experience about Google technology with passion."
-organizerEmail: "team@gdg-devfest-omsk.org"
+organizerEmail: "org.team@gdgomsk.org"
 organizerLogo: "/img/seo/organizer-logo.png"
 organizerLink: "http://gdgomsk.org/"
 
@@ -47,8 +47,8 @@ subscribeAction: "http://gdgomsk.us3.list-manage.com/subscribe/post?u=b7e6f7d6f2
 #bug "http://gdg.us5.list-manage1.com/subscribe/post?u=9fc8aa205b0521b5f05fc8e1e&amp;id=ae0fb459fc"
 
 # Documents
-c4pUrl: "http://short.gdgomsk.org/devfest14-c4p" #"http://bit.ly/dfua-c4p"
-c4partnersUrl: "mailto:team@gdg-devfest-omsk.org" #"/assets/GDG_DevFest_Partnership.pdf"
+c4pUrl: "http://short.gdgomsk.org/devfest14-c4p" # "http://bit.ly/dfua-c4p"
+c4partnersUrl: "mailto:org.team@gdgomsk.org" # "/assets/GDG_DevFest_Partnership.pdf"
 
 # Head
 metaKeywords: "event, gdg, devfest, google, programming, android, chrome, developers, omsk"
@@ -61,7 +61,7 @@ socialImageSrcFacebook: "/img/seo/sharing-facebook.png"
 eventName: "GDG DevFest Omsk 2014"
 
 # Documents
-c4sponsorsUrl: "mailto:team@gdg-devfest-omsk.org"
+c4sponsorsUrl: "mailto:org.team@gdgomsk.org"
 
 # Navigation
 navigationLinks:
@@ -178,7 +178,7 @@ footerBlocks:
  -
   title: "Contacts"
   links:
-   - {link: "mailto:team@gdg-devfest-omsk.org", text: "team@gdg-devfest-omsk.org"}
+   - {link: "mailto:org.team@gdgomsk.org", text: "org.team@gdgomsk.org"}
  -
   title: "FAQ"
   links:
