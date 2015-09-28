@@ -1,4 +1,0 @@
--
-  group: "Main organizer"
-  elements:
-    - {name: "GDG Omsk", description: "GDG Omsk - Open and volunteer geek community", link: "http://gdgomsk.org", imageUrl: "gdg-omsk.svg"}

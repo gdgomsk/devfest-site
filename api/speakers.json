@@ -1,0 +1,185 @@
+{
+  "speakers" : [
+  
+    {
+      "id": "101",
+      "name": "Alex",
+      "surname": "Korovyansky",
+      "company": "IMIT Labs",
+      "title": "",
+      "bio": "Alex is proactive Android developer with large exeperience in development of business apps. He is also author of several cute Android apps, including &lt;a href=&quot;https://play.google.com/store/apps/details?id=com.alexkorovyansky.wearpomodoro&amp;hl=en&quot; target=&quot;_blank&quot;&gt;Wear Pomodoro&lt;/a&gt; — a handy productivity app for Android Wear. Alex is founder of Google Developer Group Omsk, author and implemeter of several change-making initiatives in the community, including GDG DevFest Omsk.",
+      "thumbnailUrl": "alex_korovyansky.jpg",
+      "rockstar": ,
+      "social": [
+        
+          {
+            "name": "google-plus",
+            "link": "https://google.com/+AlexKorovyansky"
+          
+          },
+          
+        
+          {
+            "name": "twitter",
+            "link": "https://twitter.com/AlexKorovyansky"
+          
+          },
+          
+        
+          {
+            "name": "github",
+            "link": "https://github.com/AlexKorovyansky"
+          
+          }
+          
+        
+      ]
+    
+    },
+    
+  
+    {
+      "id": "102",
+      "name": "Kirill",
+      "surname": "Boyarshinov",
+      "company": "Live Typing",
+      "title": "",
+      "bio": "Kirill is lead Android Developer at Live Typing, active participant of GDG Omsk, and organizer of Android Developers Omsk community. He moves modern technology into masses and loves Open Source and space.",
+      "thumbnailUrl": "kirill_boyarshinov.jpg",
+      "rockstar": ,
+      "social": [
+        
+          {
+            "name": "google-plus",
+            "link": "https://google.com/+КириллБояршинов"
+          
+          },
+          
+        
+          {
+            "name": "twitter",
+            "link": "https://twitter.com/naghtarr"
+          
+          },
+          
+        
+          {
+            "name": "github",
+            "link": "https://github.com/naghtarr"
+          
+          }
+          
+        
+      ]
+    
+    },
+    
+  
+    {
+      "id": "103",
+      "name": "Elena",
+      "surname": "Galtsina",
+      "company": "Live Typing",
+      "title": "",
+      "bio": "Elena is designer at Live Typing, where she creates beautiful interfaces for non-trivial and real-world mobile application as part of her everyday work. Elena is curious about other people and human nature.",
+      "thumbnailUrl": "elena_galtsina.jpg",
+      "rockstar": ,
+      "social": [
+        
+          {
+            "name": "twitter",
+            "link": "https://twitter.com/kosmozver"
+          
+          }
+          
+        
+      ]
+    
+    },
+    
+  
+    {
+      "id": "104",
+      "name": "Sergey",
+      "surname": "Baranov",
+      "company": "SibADI",
+      "title": "",
+      "bio": "Sergey is young technology enthusiast, who loves progressive technologies, new amazing products, and startups. He is 5th year student of Siberian State Automobile and Highway Academy. Sergey is a graduate of GDG Omsk Labs 2013 and the winner of У.М.Н.И.К. 2013 with project devoted to person verification by palm vein pattern. Since 2013 Sergey is a very active participant of the community.",
+      "thumbnailUrl": "sergey_baranov.jpg",
+      "rockstar": ,
+      "social": [
+        
+          {
+            "name": "google-plus",
+            "link": "https://plus.google.com/109220720797918366609"
+          
+          },
+          
+        
+          {
+            "name": "twitter",
+            "link": "https://twitter.com/serj_skyrunner"
+          
+          },
+          
+        
+          {
+            "name": "github",
+            "link": "https://github.com/serj1992"
+          
+          }
+          
+        
+      ]
+    
+    },
+    
+  
+    {
+      "id": "105",
+      "name": "Serik",
+      "surname": "Beysenov",
+      "company": "Luxoft",
+      "title": "",
+      "bio": "Serik is enterprise skilled Java developer and automation testing engineer. Most part of his current work is back-end code. But Serik also is interested in modern front-end technologies.",
+      "thumbnailUrl": "serik_beysenov.jpg",
+      "rockstar": ,
+      "social": [
+        
+          {
+            "name": "google-plus",
+            "link": "https://google.com/+SerikBeisenov"
+          
+          },
+          
+        
+          {
+            "name": "twitter",
+            "link": "https://twitter.com/SerBeys"
+          
+          }
+          
+        
+      ]
+    
+    },
+    
+  
+    {
+      "id": "106",
+      "name": "All Teams",
+      "surname": "",
+      "company": "",
+      "title": "",
+      "bio": "",
+      "thumbnailUrl": "gdgomsk.png",
+      "rockstar": ,
+      "social": [
+        
+      ]
+    
+    }
+    
+  
+  ]
+}
